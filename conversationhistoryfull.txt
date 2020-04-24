@@ -1,0 +1,3181 @@
+[
+    {
+        "client_msg_id": "7695eb9d-de0d-48cd-881a-df3409305711",
+        "type": "message",
+        "text": "Hi everyone! As part of my project this semester, I\u2019m using existing messages in a channel to generate new messages. I\u2019ve tested my app on a smaller channel, but I would also like to use the messages in this channel to get more data. The info will not be publicized or shared with anyone outside of this channel. I\u2019ll be adding the app to the channel later this afternoon, so please let me know if you have any questions\/concerns related to this before then.",
+        "user": "USZ2S5H8A",
+        "ts": "1587486575.046700",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ohT4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi everyone! As part of my project this semester, I\u2019m using existing messages in a channel to generate new messages. I\u2019ve tested my app on a smaller channel, but I would also like to use the messages in this channel to get more data. The info will not be publicized or shared with anyone outside of this channel. I\u2019ll be adding the app to the channel later this afternoon, so please let me know if you have any questions\/concerns related to this before then."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U71G5QJMA",
+                    "U04850VSC",
+                    "UMU5PR2HM"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "85628890-2909-485a-b2d3-1d6f0e7e50d4",
+        "type": "message",
+        "text": "You should all now have received a meeting invite from me for this meeting. I\u2019ll post the info also in the channel next Friday before the start time.",
+        "user": "U71G5QJMA",
+        "ts": "1587159512.043600",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "URz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You should all now have received a meeting invite from me for this meeting. I\u2019ll post the info also in the channel next Friday before the start time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Here is the link to the presentation slide deck for the next two Fridays @ 4:30p. I\u2019ll send everyone an invite later today. <https:\/\/docs.google.com\/presentation\/d\/1AAza_lP82alMGiNNTqdC3mHltDyF8mxNcXkH-t7cN9g\/edit?usp=sharing> I have placeholder slides already in the deck for  <@UNZ9X81MM> <@USZ2S5H8A> <@UT1R7A672> <@U71G5QJMA> <@UT3PMPLBY> <@UT3DDUBGX> <@UK9GNTJMV> <@UMU5PR2HM> + I believe Junchao has an RA who will be joining us.",
+        "files": [
+            {
+                "id": "F0128FM8S9J",
+                "created": 1587147892,
+                "timestamp": 1587147892,
+                "name": "Spring 2020 wrapup - Social Cybersecurity presentations",
+                "title": "Spring 2020 wrapup - Social Cybersecurity presentations",
+                "mimetype": "application\/vnd.google-apps.presentation",
+                "filetype": "gpres",
+                "pretty_type": "GSuite Presentation",
+                "user": "U71G5QJMA",
+                "editable": false,
+                "size": 2533,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/presentation\/d\/1AAza_lP82alMGiNNTqdC3mHltDyF8mxNcXkH-t7cN9g\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_64.png",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_80.png",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_160.png",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0128FM8S9J-ab6eb322d6\/spring_2020_wrapup_-_social_cybersecurity_presentations_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 450,
+                "thumb_tiny": "AwAbADBUi3Ju3AU7yP8AaFQ5A60ZX\/Oapp9zOKTW35k3kf7Yo8j\/AGxUPWn4TAz1+tKz7ivHsP8AI\/2xTXi2rncDSiPdygGPc1Gy7WxTSfcTcbbCYzSkLxgY\/CkyR0oyT3qjO47jdx0oJJyccnvTaXJ9TSsVzMeshU\/KMetNdtzZxjtSZPqaSnbqJyb0P\/\/Z",
+                "permalink": "https:\/\/coexlab.slack.com\/files\/U71G5QJMA\/F0128FM8S9J\/spring_2020_wrapup_-_social_cybersecurity_presentations",
+                "is_starred": false,
+                "external_id": "1AAza_lP82alMGiNNTqdC3mHltDyF8mxNcXkH-t7cN9g",
+                "external_url": "https:\/\/docs.google.com\/presentation\/d\/1AAza_lP82alMGiNNTqdC3mHltDyF8mxNcXkH-t7cN9g\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "K1\/G",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is the link to the presentation slide deck for the next two Fridays @ 4:30p. I\u2019ll send everyone an invite later today. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1AAza_lP82alMGiNNTqdC3mHltDyF8mxNcXkH-t7cN9g\/edit?usp=sharing"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I have placeholder slides already in the deck for  "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UNZ9X81MM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "USZ2S5H8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT1R7A672"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U71G5QJMA"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT3PMPLBY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT3DDUBGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UK9GNTJMV"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMU5PR2HM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " + I believe Junchao has an RA who will be joining us."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U71G5QJMA",
+        "display_as_bot": false,
+        "x_files": [
+            "F0128FM8S9J"
+        ],
+        "ts": "1587147890.042100",
+        "client_msg_id": "dc413d23-bdde-4c51-90b2-35136ba7f569",
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UMU5PR2HM"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "This week: I prepped a lecture on \u201cDesigning for Security + Privacy\u201d for Programming Usable Interfaces. In this lecture, I reference all of our work plus try to translate Jason Hong\u2019s wisdom into my voice. :slightly_smiling_face: You can check out the slides here: <https:\/\/docs.google.com\/presentation\/d\/1YBuwwS-Fck7gNvHZyeLEE0lF9L5iyKxVj3MTbt5Ds_0\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F011PG8RLCE",
+                "created": 1586962584,
+                "timestamp": 1586962584,
+                "name": "Faklaris - Designing for Security + Privacy - PUI Sp2020",
+                "title": "Faklaris - Designing for Security + Privacy - PUI Sp2020",
+                "mimetype": "application\/vnd.google-apps.presentation",
+                "filetype": "gpres",
+                "pretty_type": "GSuite Presentation",
+                "user": "U71G5QJMA",
+                "editable": false,
+                "size": 34127,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/presentation\/d\/1YBuwwS-Fck7gNvHZyeLEE0lF9L5iyKxVj3MTbt5Ds_0\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_64.png",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_80.png",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_160.png",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F011PG8RLCE-10414aa720\/faklaris_-_designing_for_security___privacy_-_pui_sp2020_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 450,
+                "thumb_tiny": "AwAbADCHc25hxxTypUDcwBxnBFOlSOO380\/fbGKYskTjDuwIGPu5xTbdyFFWHLFKwyqkj1Ao2OpG9SM+1OMmOFfhfqM01ZDIyqXLHqATSuwcVbYXb9fypGXHr+IqYI2Bwfweo5ODt549TmqTT2Zk1ZbFO63713HK4+UZqMMcHtn0q7RRylKpboUtzMx5PNTWzf6UpPYVPRRyg6hb85feq8p3MW9aZRSjTUXdEubasf\/Z",
+                "permalink": "https:\/\/coexlab.slack.com\/files\/U71G5QJMA\/F011PG8RLCE\/faklaris_-_designing_for_security___privacy_-_pui_sp2020",
+                "is_starred": false,
+                "external_id": "1YBuwwS-Fck7gNvHZyeLEE0lF9L5iyKxVj3MTbt5Ds_0",
+                "external_url": "https:\/\/docs.google.com\/presentation\/d\/1YBuwwS-Fck7gNvHZyeLEE0lF9L5iyKxVj3MTbt5Ds_0\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This week: I prepped a lecture on \u201cDesigning for Security + Privacy\u201d for Programming Usable Interfaces. In this lecture, I reference all of our work plus try to translate Jason Hong\u2019s wisdom into my voice. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " You can check out the slides here: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/presentation\/d\/1YBuwwS-Fck7gNvHZyeLEE0lF9L5iyKxVj3MTbt5Ds_0\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U71G5QJMA",
+        "display_as_bot": false,
+        "x_files": [
+            "F011PG8RLCE"
+        ],
+        "ts": "1586962581.039400",
+        "client_msg_id": "9ad9a273-79b0-4f8c-b28e-a0c3438cb240"
+    },
+    {
+        "client_msg_id": "4f9913cb-2b67-463e-bf44-f274312b18cc",
+        "type": "message",
+        "text": "Last week for me - I helped students get their work wrapped up for the semester &amp; also made progress on survey research for a class project.",
+        "user": "U71G5QJMA",
+        "ts": "1586962508.038100",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cw\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week for me - I helped students get their work wrapped up for the semester & also made progress on survey research for a class project."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2CCA40FC-A1F1-4610-A03A-A5D6BB91C081",
+        "type": "message",
+        "text": "Last week: Ideated about the game with Isadora and received feedback from Laura on our first iteration of ideas\n\nThis week: Continue the next iteration of ideas with Isadora with a more clear goal on what to ideate on.",
+        "user": "UT3DDUBGX",
+        "ts": "1586879995.036500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "s0C",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week: Ideated about the game with Isadora and received feedback from Laura on our first iteration of ideas\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nThis week: Continue the next iteration of ideas with Isadora with a more clear goal on what to ideate on."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U04850VSC",
+                    "U71G5QJMA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6909aaff-b4c4-490b-8c38-83545e57260b",
+        "type": "message",
+        "text": "Last Week: Revised think-aloud protocol to be more concrete with Isadora based on our findings and conducted think-alouds.\n\nThis week: Continue to conduct more think-alouds to address any discrepancies and discuss findings with Isadora.",
+        "user": "UT3PMPLBY",
+        "ts": "1586807819.032800",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "arE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week: Revised think-aloud protocol to be more concrete with Isadora based on our findings and conducted think-alouds.\n\nThis week: Continue to conduct more think-alouds to address any discrepancies and discuss findings with Isadora."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U71G5QJMA",
+                    "UK9GNTJMV",
+                    "U04850VSC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "02C23BC9-573B-422D-B5D7-40C95C2F945F",
+        "type": "message",
+        "text": "Update: my Hacked time paper has been accepted at DIS2020! \ud83e\udd70",
+        "user": "UD223P1LP",
+        "ts": "1586468667.029400",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSRo",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update: my Hacked time paper has been accepted at DIS2020! \ud83e\udd70"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "thread_ts": "1586468667.029400",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1586469145.029700",
+        "reply_users": [
+            "U71G5QJMA"
+        ],
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U04850VSC",
+                    "U71G5QJMA",
+                    "UFS59BT97",
+                    "UT3PMPLBY"
+                ],
+                "count": 4
+            },
+            {
+                "name": "sparkles",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6D3B904A-DFCA-4177-BCC0-724A6CBEF63B",
+        "type": "message",
+        "text": "Today's presentation by a friend in ISR could be of interest to you too. Register to get the Zoom info at this link. <https:\/\/www.cmu.edu\/ideas-social-cybersecurity\/events\/seminars.html>",
+        "user": "U71G5QJMA",
+        "ts": "1586267046.028300",
+        "team": "T04850VRY",
+        "attachments": [
+            {
+                "title": "seminars - Center for Informed Democracy &amp; Social - cybersecurity (IDeaS) - Carnegie Mellon University",
+                "title_link": "https:\/\/www.cmu.edu\/ideas-social-cybersecurity\/events\/seminars.html",
+                "text": "List of speakers and upcoming seminars for IDeaS Center at CMU",
+                "fallback": "seminars - Center for Informed Democracy &amp; Social - cybersecurity (IDeaS) - Carnegie Mellon University",
+                "image_url": "https:\/\/www.cmu.edu\/ideas-social-cybersecurity\/images\/ideas.jpg",
+                "from_url": "https:\/\/www.cmu.edu\/ideas-social-cybersecurity\/events\/seminars.html",
+                "image_width": 234,
+                "image_height": 250,
+                "image_bytes": 101466,
+                "service_icon": "https:\/\/www.cmu.edu\/favicon.ico",
+                "service_name": "cmu.edu",
+                "id": 1,
+                "original_url": "https:\/\/www.cmu.edu\/ideas-social-cybersecurity\/events\/seminars.html"
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2958EAD1-3602-41FF-8DB8-B2FC923C1561",
+        "type": "message",
+        "text": "Last week - I continued holding 1:1 meetings with assistants to help determine what is doable in the last few weeks f the semester. This week - I will try to arrange a time for us all to present our work to each other. ",
+        "user": "U71G5QJMA",
+        "ts": "1586266963.026400",
+        "team": "T04850VRY"
+    },
+    {
+        "client_msg_id": "AC62E5F7-A866-4937-9966-3524A2029B21",
+        "type": "message",
+        "text": "Last week: I continued to ideate design elements for Hacked Time with Isadora\n\nThis week: Isadora and I will continue to ideate after receiving feedback on our previous ideas",
+        "user": "UT3DDUBGX",
+        "ts": "1586223065.022800",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "fCN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week: I continued to ideate design elements for Hacked Time with Isadora\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: Isadora and I will continue to ideate after receiving feedback on our previous ideas"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "bcc17d9a-7184-4841-a55e-f45690ae9e0c",
+        "type": "message",
+        "text": "_*Last Week*_\nErin and I went through two rounds of ideation for Hacked Time,\u00a0the first after discussing with Laura and the second after discussing some of our ideas with Cori. About two weeks ago our Chrome developer account was suspended, since then I have been trying to appeal the suspension (the appeal has been rejected twice now) - and reaching out to people suggested to me as potential resources in this situation. In the meantime Michelle and I have been working on a plan to tackle the eventual analysis of data from the plugin study, and have also redrafted some of our protocols after receiving feedback in a CoEx Lab presentation. We met with Laura last week to discuss confounding variables in the analysis of the plugin, and designed a plan to conduct an evaluative talk-aloud study to see whether any of the problems we foresee come to fruition. Over the weekend I conducted a brief talk-aloud with the study with the plugin, we will use this to guide our protocols for the concrete talk-alouds we hope to conduct next week.\u00a0\n\n_*This Week*_\nErin and I will be getting feedback on our ideas for Hacked Time, and will regroup later this week to discuss and refine our iterations.\u00a0With regards to SafeSea I will be continuing to reach out to individuals who may be able to help us revoke our account suspension on the google play store. I am also going to be working on fixing some aspects of SafeSea\u2019s interface that Laura, Michelle, and myself consider as having the potential to add white noise to our analysis of the plugin. On Wednesday, Michelle and I will compare notes from our initial think-aloud , and draft a think-aloud protocol which we will then get brief feedback on from Laura. We will then run the concrete think-aloud with more volunteers (to work out any kinks), and eventually with a small group of MTurkers (hopefully next week) and meet together to discuss our findings.",
+        "user": "UK9GNTJMV",
+        "ts": "1586199929.020700",
+        "team": "T04850VRY",
+        "edited": {
+            "user": "UK9GNTJMV",
+            "ts": "1586199992.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONWIV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nErin and I went through two rounds of ideation for Hacked Time,\u00a0the first after discussing with Laura and the second after discussing some of our ideas with Cori. About two weeks ago our Chrome developer account was suspended, since then I have been trying to appeal the suspension (the appeal has been rejected twice now) - and reaching out to people suggested to me as potential resources in this situation. In the meantime Michelle and I have been working on a plan to tackle the eventual analysis of data from the plugin study, and have also redrafted some of our protocols after receiving feedback in a CoEx Lab presentation. We met with Laura last week to discuss confounding variables in the analysis of the plugin, and designed a plan to conduct an evaluative talk-aloud study to see whether any of the problems we foresee come to fruition. Over the weekend I conducted a brief talk-aloud with the study with the plugin, we will use this to guide our protocols for the concrete talk-alouds we hope to conduct next week.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nErin and I will be getting feedback on our ideas for Hacked Time, and will regroup later this week to discuss and refine our iterations.\u00a0With regards to SafeSea I will be continuing to reach out to individuals who may be able to help us revoke our account suspension on the google play store. I am also going to be working on fixing some aspects of SafeSea\u2019s interface that Laura, Michelle, and myself consider as having the potential to add white noise to our analysis of the plugin. On Wednesday, Michelle and I will compare notes from our initial think-aloud , and draft a think-aloud protocol which we will then get brief feedback on from Laura. We will then run the concrete think-aloud with more volunteers (to work out any kinks), and eventually with a small group of MTurkers (hopefully next week) and meet together to discuss our findings."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U71G5QJMA",
+                    "UT3PMPLBY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "031cf23c-f2c5-4ad3-b523-edda6ec78bb1",
+        "type": "message",
+        "text": "Last week:\u00a0\nFinished organizing data from self-reported settings and conducted a think aloud of SafeSea plugin to understand the users\u2019 perceptions\nThis Week:\nI will meet up with Isadora to discuss our insights from the walkthroughs and design the protocol for a more concrete think aloud study. Then we\u2019ll run the revised study protocol on more participants.",
+        "user": "UT3PMPLBY",
+        "ts": "1586197372.019600",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Cql",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:\u00a0\nFinished organizing data from self-reported settings and conducted a think aloud of SafeSea plugin to understand the users\u2019 perceptions\nThis Week:\nI will meet up with Isadora to discuss our insights from the walkthroughs and design the protocol for a more concrete think aloud study. Then we\u2019ll run the revised study protocol on more participants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Update: the troublesome coworker has quietly settled into her cubicle. ",
+        "files": [
+            {
+                "id": "F0117GYVCTX",
+                "created": 1585753303,
+                "timestamp": 1585753303,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U71G5QJMA",
+                "editable": false,
+                "size": 930497,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04850VRY-F0117GYVCTX\/image_from_ios.jpg",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04850VRY-F0117GYVCTX\/download\/image_from_ios.jpg",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_64.jpg",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_80.jpg",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_160.jpg",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0117GYVCTX-ed0bbc45d4\/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "original_w": 3024,
+                "original_h": 4032,
+                "thumb_tiny": "AwAwACS0RUUvCGp5ICeVOD6VBMpEJz2\/xpDKbOT97jHtT4SWYk+tJhScMcDHYU6IASEKeKQyyFBAyKNi+lIZETAZgDijz4v74piHLeLHbqZGLPj8TVV9QJyPLXB7Gq7YY8+mKQxj1piGu5Ziw+XPYVZhbEYORz+dVin+1TlZlXbnikM0FgWVQ2M570v2RfSpUkCoNpG08jNO87\/doAxi1JuzQRSorOwRMAnvTEIQ2eQaOR1qwLRsEM4x9KrkMjFW5x2NADjIzAZJ4GBRuP8AeNNIx9DSUAf\/2Q==",
+                "permalink": "https:\/\/coexlab.slack.com\/files\/U71G5QJMA\/F0117GYVCTX\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04850VRY-F0117GYVCTX-fc7d1af570",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vz9g7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Update: the troublesome coworker has quietly settled into her cubicle. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U71G5QJMA",
+        "display_as_bot": false,
+        "ts": "1585753309.018300",
+        "client_msg_id": "7049F540-24D8-4461-B035-24AEF647BE97",
+        "reactions": [
+            {
+                "name": "joy_cat",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Last week: stepped up remote recruitment for our workplace interview study. This week: compiling relevant news links related to the pandemic &amp; reviewing user testing protocols to adjust for remote studies. It\u2019s slow going in part due to my junior colleague in the home office, who\u2019s also got cabin fever :joy: ",
+        "files": [
+            {
+                "id": "F0114KV4F8D",
+                "created": 1585668510,
+                "timestamp": 1585668510,
+                "name": "Image from iOS.jpg",
+                "title": "Image from iOS",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "U71G5QJMA",
+                "editable": false,
+                "size": 1374296,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/T04850VRY-F0114KV4F8D\/image_from_ios.jpg",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/T04850VRY-F0114KV4F8D\/download\/image_from_ios.jpg",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_64.jpg",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_80.jpg",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_360.jpg",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_480.jpg",
+                "thumb_480_w": 360,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_160.jpg",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_720.jpg",
+                "thumb_720_w": 540,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_800.jpg",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1067,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_960.jpg",
+                "thumb_960_w": 720,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F0114KV4F8D-e319ad0327\/image_from_ios_1024.jpg",
+                "thumb_1024_w": 768,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 6,
+                "original_w": 4032,
+                "original_h": 3024,
+                "thumb_tiny": "AwAwACSuRTehzVkw5qCZMfL1J6UhmjCQIk+lPMgFUw7BQMDgUuWPU1IyyZhSecKr49zRj3NAyN5yoJqqHJcsT8x71IwJHSoVGGwRVkFyOTzB0\/GpBUVvjYcY69qlFSxodRxSZozQMqKcGpgAeag6HFPQgEZzirJJhwOmKXNN81GQbfv9DxilqRjs0ZNNzRmkB\/\/Z",
+                "permalink": "https:\/\/coexlab.slack.com\/files\/U71G5QJMA\/F0114KV4F8D\/image_from_ios.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/T04850VRY-F0114KV4F8D-5baf4b57d1",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "GbSw\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week: stepped up remote recruitment for our workplace interview study. This week: compiling relevant news links related to the pandemic & reviewing user testing protocols to adjust for remote studies. It\u2019s slow going in part due to my junior colleague in the home office, who\u2019s also got cabin fever "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "joy"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U71G5QJMA",
+        "display_as_bot": false,
+        "ts": "1585668521.015400",
+        "edited": {
+            "user": "U71G5QJMA",
+            "ts": "1585668558.000000"
+        },
+        "client_msg_id": "52F0C77F-8935-4142-B7C7-3C64B855D115",
+        "reactions": [
+            {
+                "name": "cat",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "cat2",
+                "users": [
+                    "UFS59BT97"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tiger2",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "heart_eyes_cat",
+                "users": [
+                    "UT3DDUBGX",
+                    "UT3PMPLBY"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "C7B60E17-6ACE-4B4F-A335-6B5E804F57B1",
+        "type": "message",
+        "text": "Last week: I continued looking for metrics questions, organized some data from non experts settings, and met up with Isadora to hash out potential improvements for SafeSea based on the feedback given from the presentation \n\nThis week: I will organize the self-reported settings, finish up the survey questions, and list other potential problems to address ",
+        "user": "UT3PMPLBY",
+        "ts": "1585616561.011300",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NBUeK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week: I continued looking for metrics questions, organized some data from non experts settings, and met up with Isadora to hash out potential improvements for SafeSea based on the feedback given from the presentation \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: I will organize the self-reported settings, finish up the survey questions, and list other potential problems to address "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8253fa9c-d03b-4976-9b0d-b19defa03c6a",
+        "type": "message",
+        "text": "*Last week:* I worked on ideating goals for the continuation of Hacked Time with Isadora\n*This week:* I will continue to ideate more specific goals and ways to achieve those goals in a game setting.",
+        "user": "UT3DDUBGX",
+        "ts": "1585600504.006000",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rRuZ6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I worked on ideating goals for the continuation of Hacked Time with Isadora\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I will continue to ideate more specific goals and ways to achieve those goals in a game setting."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U71G5QJMA",
+                    "UK9GNTJMV",
+                    "U04850VSC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "<!here> I am starting a Google doc of Covid-19 or other news links related to usable privacy and security during the pandemic. Please feel free to add links as you come across them as part of your own assigned research work for this project. (We can panic-browse the Internet and turn it into _useful work output!_) <https:\/\/docs.google.com\/document\/d\/1l2kUYwK1n8s4RZaZqipdeEDWqQH5tD1DJx2MDLKvz14\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "F010D4UM0KC",
+                "created": 1585153160,
+                "timestamp": 1585153160,
+                "name": "Links: Security and Privacy-relatd News Amid the Covid-19 Pandemic",
+                "title": "Links: Security and Privacy-relatd News Amid the Covid-19 Pandemic",
+                "mimetype": "application\/vnd.google-apps.document",
+                "filetype": "gdoc",
+                "pretty_type": "GSuite Document",
+                "user": "U71G5QJMA",
+                "editable": false,
+                "size": 518,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/document\/d\/1l2kUYwK1n8s4RZaZqipdeEDWqQH5tD1DJx2MDLKvz14\/edit?usp=sharing",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_64.png",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_80.png",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_360.png",
+                "thumb_360_w": 278,
+                "thumb_360_h": 360,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_480.png",
+                "thumb_480_w": 371,
+                "thumb_480_h": 480,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_160.png",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_720.png",
+                "thumb_720_w": 557,
+                "thumb_720_h": 720,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 1035,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_960.png",
+                "thumb_960_w": 742,
+                "thumb_960_h": 960,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/T04850VRY-F010D4UM0KC-a33d9ad07b\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic_1024.png",
+                "thumb_1024_w": 791,
+                "thumb_1024_h": 1024,
+                "image_exif_rotation": 1,
+                "original_w": 800,
+                "original_h": 1035,
+                "thumb_tiny": "AwAwACXTJx2pM+1DDOKTYKAFyfSl59KTaB3NGPrQAtFFFACHtxmlHSkP4\/hSjpQAUUUUAFFFFAARRRRQAUUUUAFFFFAH\/9k=",
+                "permalink": "https:\/\/coexlab.slack.com\/files\/U71G5QJMA\/F010D4UM0KC\/links__security_and_privacy-relatd_news_amid_the_covid-19_pandemic",
+                "is_starred": false,
+                "external_id": "1l2kUYwK1n8s4RZaZqipdeEDWqQH5tD1DJx2MDLKvz14",
+                "external_url": "https:\/\/docs.google.com\/document\/d\/1l2kUYwK1n8s4RZaZqipdeEDWqQH5tD1DJx2MDLKvz14\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1zIU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am starting a Google doc of Covid-19 or other news links related to usable privacy and security during the pandemic. Please feel free to add links as you come across them as part of your own assigned research work for this project. (We can panic-browse the Internet and turn it into "
+                            },
+                            {
+                                "type": "text",
+                                "text": "useful work output!",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ") "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/document\/d\/1l2kUYwK1n8s4RZaZqipdeEDWqQH5tD1DJx2MDLKvz14\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U71G5QJMA",
+        "display_as_bot": false,
+        "x_files": [
+            "F010D4UM0KC"
+        ],
+        "ts": "1585153158.002200",
+        "client_msg_id": "df2909b0-3900-43c6-9097-4ab16e4600bc",
+        "pinned_to": [
+            "C74A5E58Q"
+        ],
+        "pinned_info": {
+            "channel": "C74A5E58Q",
+            "pinned_by": "U71G5QJMA",
+            "pinned_ts": 1585153185
+        }
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1585080607.027900",
+        "user": "UFFUN209E",
+        "text": "<@UFFUN209E> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1585080597.027700",
+        "user": "UP3CWQWKG",
+        "text": "<@UP3CWQWKG> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1585080577.027500",
+        "user": "U7PSYLSMR",
+        "text": "<@U7PSYLSMR> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1585080570.027300",
+        "user": "UD7HSR916",
+        "text": "<@UD7HSR916> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1585080562.027100",
+        "user": "U7GTB8F2P",
+        "text": "<@U7GTB8F2P> has left the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_leave",
+        "ts": "1585080556.026900",
+        "user": "UD7JC7P88",
+        "text": "<@UD7JC7P88> has left the channel"
+    },
+    {
+        "client_msg_id": "2275473A-3B12-4198-BA23-B0DB3CFF39B9",
+        "type": "message",
+        "text": "Last week: I drafted some metrics questions for the pre-screen measuring the individual differences \n\nThis week: I will continue to draft more questions to implement into the study for the other individual differences ",
+        "user": "UT3PMPLBY",
+        "ts": "1585021352.026100",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n440",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week: I drafted some metrics questions for the pre-screen measuring the individual differences \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: I will continue to draft more questions to implement into the study for the other individual differences "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U71G5QJMA",
+                    "UK9GNTJMV",
+                    "U04850VSC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9515dc5c-a008-4a4b-b0f2-ffbccbe6966d",
+        "type": "message",
+        "text": "*Last Week:* I implemented quality of life changes to Apps vs. Hackers, and, as we are going to work on Hacked Time instead of Apps vs. Hackers, started to learn about Hacked Time, and Bandura's principles\n\n*This Week:* I will continue to learn about Bandura's principles and ideate with Isadora on how to use his principles within a continuation of Hacked Time.",
+        "user": "UT3DDUBGX",
+        "ts": "1584995655.023200",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DA=je",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I implemented quality of life changes to Apps vs. Hackers, and, as we are going to work on Hacked Time instead of Apps vs. Hackers, started to learn about Hacked Time, and Bandura's principles\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I will continue to learn about Bandura's principles and ideate with Isadora on how to use his principles within a continuation of Hacked Time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA",
+                    "U04850VSC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "93410e26-8df0-4fef-9def-8b9d3e268347",
+        "type": "message",
+        "text": "_*Last Week*_\nI met with Laura, Jason, Cori, and Erin and we discussed how to continue the work we\u2019re doing with cybersecurity game-based interventions. We ultimately decided to suspend our work on Apps vs. Hackers, and pursue the continuation of research around Hacked Time. Erin and I met afterwords to discuss potential ideas, and a timeline for the near future. Additionally I worked alongside Michelle to continue to flesh out details surrounding the SafeSea research protocol - which I hope to present and get feedback on tomorrow. I also spoke with summer REU students, and discussed our cybersecurity games with them.\u00a0\n\n_*This Week*_\nI will present the current research plan for SafeSea tomorrow to the CoEx Lab, and get feedback on the research protocol as well as the research questions. I will incorporate the feedback from that meeting into our work, and hope to get the changes approved by Laura during our weekly meeting before submitting to the IRB (by the end of the week).\u00a0I will also be meeting with Erin at length to discuss and ideate for the continuation of research surrounding Hacked Time, and we hope to send out our ideas to Jason, Laura, and Cori by the end of the week for feedback.\u00a0\nI also hope to touch base with summer REUs again this weekend to give them a clearer idea of the summer,\u00a0in light of the way that COVID-19 has affected the program.",
+        "user": "UK9GNTJMV",
+        "ts": "1584982561.019700",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J0n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI met with Laura, Jason, Cori, and Erin and we discussed how to continue the work we\u2019re doing with cybersecurity game-based interventions. We ultimately decided to suspend our work on Apps vs. Hackers, and pursue the continuation of research around Hacked Time. Erin and I met afterwords to discuss potential ideas, and a timeline for the near future. Additionally I worked alongside Michelle to continue to flesh out details surrounding the SafeSea research protocol - which I hope to present and get feedback on tomorrow. I also spoke with summer REU students, and discussed our cybersecurity games with them.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will present the current research plan for SafeSea tomorrow to the CoEx Lab, and get feedback on the research protocol as well as the research questions. I will incorporate the feedback from that meeting into our work, and hope to get the changes approved by Laura during our weekly meeting before submitting to the IRB (by the end of the week).\u00a0I will also be meeting with Erin at length to discuss and ideate for the continuation of research surrounding Hacked Time, and we hope to send out our ideas to Jason, Laura, and Cori by the end of the week for feedback.\u00a0\nI also hope to touch base with summer REUs again this weekend to give them a clearer idea of the summer,\u00a0in light of the way that COVID-19 has affected the program."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U71G5QJMA"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "66fda0cc-3de2-4ce9-8df4-5a01ab090b72",
+        "type": "message",
+        "text": "*Last week for me:* Learned Zoom. :slightly_smiling_face: Held almost all meetings in Zoom. Laura and Serena and I rearranged the workplace cybersecurity interview script and made it more detailed or \u201cstructured\u201d vs. the looser ethnography-style script that we started with. This lengthened the most recent interview to ~1hr 15m. Serena and I will go over Friday\u2019s interview this week to make sure we are comfortable with the script and with the increase in duration. *This week:* Praying today for Zoom\u2019s site reliability engineers as more universities and companies go remote. Filing an IRB modification to allow us to use remote transcription. Trying to keep to my \u201cnormal\u201d weekly schedule last week amid everything left me really drained despite feeling physically better, so I am looking for other ways to reduce my workload and that of our research assistants.",
+        "user": "U71G5QJMA",
+        "ts": "1584976664.019500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aix",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week for me:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Learned Zoom. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Held almost all meetings in Zoom. Laura and Serena and I rearranged the workplace cybersecurity interview script and made it more detailed or \u201cstructured\u201d vs. the looser ethnography-style script that we started with. This lengthened the most recent interview to ~1hr 15m. Serena and I will go over Friday\u2019s interview this week to make sure we are comfortable with the script and with the increase in duration. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "Praying today for Zoom\u2019s site reliability engineers as more universities and companies go remote. Filing an IRB modification to allow us to use remote transcription. Trying to keep to my \u201cnormal\u201d weekly schedule last week amid everything left me really drained despite feeling physically better, so I am looking for other ways to reduce my workload and that of our research assistants."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "video_camera",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a61df5ec-24ec-42b0-a8c1-32179cd4781c",
+        "type": "message",
+        "text": "Hi all! Hope people are healthy and staying safe \u2013\u00a0I will also be working remotely for the time being..\n\n_*Last Week*_\u00a0\nI worked on and submitted a study protocol mod for to the IRB regarding our SafeSea study. I also worked on modifying and resubmitting our newest SafeSea plugin condition to Chrome after it was several times rejected last week - It was approved this morning and is now hosted online. I also met with Laura and we worked on a plan, and study protocols for the SafeSea study together. Finally I got in touch with my mentees\/undergrads and coordinated plans for conducting remote meetings for the remainder of the semester.\u00a0\n\n_*This Week*_\u00a0\nI plan on meeting with Laura, Jason, Cori, and Erin to discuss our work on the cybersecurity games and deliberate how to continue our efforts. This week I plan to continue my work on the cybersecurity games research plans\/protocols in order to prepare for that discussion, Erin will continue to help me in making changes to the foundation for the Apps vs. Hackers game. Aside from that I will also be continuing my work refining other aspects of the SafeSea protocol alongside Michelle.\u00a0\nOn Friday, I will be teleconferencing with our three summer REU students to discuss the projects that lie ahead for the summer.",
+        "user": "UK9GNTJMV",
+        "ts": "1584381341.018900",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TntmO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi all! Hope people are healthy and staying safe \u2013\u00a0I will also be working remotely for the time being..\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Last Week\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI worked on and submitted a study protocol mod for to the IRB regarding our SafeSea study. I also worked on modifying and resubmitting our newest SafeSea plugin condition to Chrome after it was several times rejected last week - It was approved this morning and is now hosted online. I also met with Laura and we worked on a plan, and study protocols for the SafeSea study together. Finally I got in touch with my mentees\/undergrads and coordinated plans for conducting remote meetings for the remainder of the semester.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI plan on meeting with Laura, Jason, Cori, and Erin to discuss our work on the cybersecurity games and deliberate how to continue our efforts. This week I plan to continue my work on the cybersecurity games research plans\/protocols in order to prepare for that discussion, Erin will continue to help me in making changes to the foundation for the Apps vs. Hackers game. Aside from that I will also be continuing my work refining other aspects of the SafeSea protocol alongside Michelle.\u00a0\nOn Friday, I will be teleconferencing with our three summer REU students to discuss the projects that lie ahead for the summer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9767E79E-FAF8-431B-839A-71D9199F1A3B",
+        "type": "message",
+        "text": "I plan to resume my normal weekly schedule and hold all meetings remotely. ",
+        "user": "U71G5QJMA",
+        "ts": "1584369900.018500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mpt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I plan to resume my normal weekly schedule and hold all meetings remotely. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "68BDAA75-F517-446B-998E-951921E89CF7",
+        "type": "message",
+        "text": "My personal update today - I\u2019m feeling back to normal. But- I\u2019ll continue to work out of my Pittsburgh apartment thru the end of March. Today will be my first real test of productivity at home  - I\u2019ll be working on the \u201cmajor revisions\u201d for a journal submission &amp; holding a TA meeting with a student through Zoom. ",
+        "user": "U71G5QJMA",
+        "ts": "1584369644.017800",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "TFQ1f",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My personal update today - I\u2019m feeling back to normal. But- I\u2019ll continue to work out of my Pittsburgh apartment thru the end of March. Today will be my first real test of productivity at home  - I\u2019ll be working on the \u201cmajor revisions\u201d for a journal submission & holding a TA meeting with a student through Zoom. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00BF12FC-5C78-4EFD-95AA-FBDEBC4C7DC3",
+        "type": "message",
+        "text": "As you hopefully know by now, the university has banned on-campus research with undergraduates. Luckily, our research doesn\u2019t require in-person contact. We have been in touch with those of you who we are working with directly - but also, please reach out to us anytime with questions or concerns. ",
+        "user": "U71G5QJMA",
+        "ts": "1584369453.013600",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7hDHg",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "As you hopefully know by now, the university has banned on-campus research with undergraduates. Luckily, our research doesn\u2019t require in-person contact. We have been in touch with those of you who we are working with directly - but also, please reach out to us anytime with questions or concerns. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "FEDCF87B-C036-4232-98D4-918BB148DA62",
+        "type": "message",
+        "text": "<!channel> hi all - xpost from email - can you please email Isadora and myself your contact info (home phone numbers, mobile telephone numbers and home e-mail addresses)? It\u2019s very likely we will need to work remotely. Thank you!",
+        "user": "U71G5QJMA",
+        "ts": "1583934705.009300",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YgU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "channel"
+                            },
+                            {
+                                "type": "text",
+                                "text": " hi all - xpost from email - can you please email Isadora and myself your contact info (home phone numbers, mobile telephone numbers and home e-mail addresses)? It\u2019s very likely we will need to work remotely. Thank you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "UMU5PR2HM"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0E51CBAA-74BC-4299-BA1F-65AF771F90EC",
+        "type": "message",
+        "text": "Last week for me - we got IRB approval for our modification for the Workplace Cybersecurity study. This revises recruitment methods, consent form &amp; interview questions &amp; adds <@UMU5PR2HM> as a co-PI. But I also fell ill :mask: with a fever and fatigue. I stayed home for a few days. This week - I am limiting my contact with people &amp; hoping to finish my journal article on the SA-13 psychometric inventory. ",
+        "user": "U71G5QJMA",
+        "ts": "1583776517.006200",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y89rn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week for me - we got IRB approval for our modification for the Workplace Cybersecurity study. This revises recruitment methods, consent form & interview questions & adds "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMU5PR2HM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " as a co-PI. But I also fell ill "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "mask"
+                            },
+                            {
+                                "type": "text",
+                                "text": " with a fever and fatigue. I stayed home for a few days. This week - I am limiting my contact with people & hoping to finish my journal article on the SA-13 psychometric inventory. "
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "1ac28544-2875-45fb-a27a-f2bfa8cf6182",
+        "type": "message",
+        "text": "_*Last Week*_\nI created and submitted to the Chrome webstore the newest condition for the SafeSea plugin.\u00a0I continued making changes to the SafeSea documents for the IRB.\u00a0I also reached out to several summer REUs to discuss the summer projects. I also fleshed out research plans for Apps vs. Hackers alongside Erin and Laura, and came up with a few intriguing ways of incorporating social influence. Erin and I have also already made a number of changes to the base game for Apps vs. Hackers, based on feedback from cognitive walkthroughs.\u00a0\n\n_*This Week*_\nI will wrap up my work on the SafeSea protocol and _submit my modifications to the IRB_ by Wednesday, so that we may begin running the SafeSea study as soon as we can.\u00a0I will also put the finishing touches on the research plans for our cybersecurity games (Apps v.s. Hackers included), and write them up so that Erin and I are prepared to discuss all our options next week alongside Jason, Laura, and Cori.",
+        "user": "UK9GNTJMV",
+        "ts": "1583767293.000200",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "0HJ=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI created and submitted to the Chrome webstore the newest condition for the SafeSea plugin.\u00a0I continued making changes to the SafeSea documents for the IRB.\u00a0I also reached out to several summer REUs to discuss the summer projects. I also fleshed out research plans for Apps vs. Hackers alongside Erin and Laura, and came up with a few intriguing ways of incorporating social influence. Erin and I have also already made a number of changes to the base game for Apps vs. Hackers, based on feedback from cognitive walkthroughs.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will wrap up my work on the SafeSea protocol and "
+                            },
+                            {
+                                "type": "text",
+                                "text": "submit my modifications to the IRB",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " by Wednesday, so that we may begin running the SafeSea study as soon as we can.\u00a0I will also put the finishing touches on the research plans for our cybersecurity games (Apps v.s. Hackers included), and write them up so that Erin and I are prepared to discuss all our options next week alongside Jason, Laura, and Cori."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "100",
+                "users": [
+                    "U71G5QJMA"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f9e9bca6-2ad0-446a-8f29-416b9b169a69",
+        "type": "message",
+        "text": "_*Last week*_\u00a0\nI worked with Erin to complete mockups of a minimum viable product for Apps vs. Hackers, and created a list of visual design changes that needed to be made by myself and sent to her to implement into the game. I also gave a presentation in CHIMPS Lab on the progress and next steps for SafeSea, and updated Jason on the progress with Apps vs. Hackers. On Thursday Laura, Cori, Michelle, and I hammered out the remaining details for the SafeSea study and I began work on modifying documents to submit to the IRB. I also got the MixPanel data collection working for each of the plugin conditions. Finally, on Friday I met with a future member of our REU team to discuss what she would be working on with us over the summer.\u00a0\n\n_*This week*_\nI am working on design changes to the Apps vs. Hackers interface and sending them to Erin so she can implement them - we will meet later this week to go over a plan for a revised version of Hacked Time (so that we can compare the options in a later meeting with Jason and Laura a few weeks from now). I will also continue work on revising the SafeSea study protocol documents, and implement the newest condition of the plugin discussed last Thursday.\u00a0I will also take the time to reach out over email to other REUs we\u2019ve extended offers to, and see if they would like to discuss the projects lined up for the summer.",
+        "user": "UK9GNTJMV",
+        "ts": "1583249542.000400",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "WkFq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI worked with Erin to complete mockups of a minimum viable product for Apps vs. Hackers, and created a list of visual design changes that needed to be made by myself and sent to her to implement into the game. I also gave a presentation in CHIMPS Lab on the progress and next steps for SafeSea, and updated Jason on the progress with Apps vs. Hackers. On Thursday Laura, Cori, Michelle, and I hammered out the remaining details for the SafeSea study and I began work on modifying documents to submit to the IRB. I also got the MixPanel data collection working for each of the plugin conditions. Finally, on Friday I met with a future member of our REU team to discuss what she would be working on with us over the summer.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI am working on design changes to the Apps vs. Hackers interface and sending them to Erin so she can implement them - we will meet later this week to go over a plan for a revised version of Hacked Time (so that we can compare the options in a later meeting with Jason and Laura a few weeks from now). I will also continue work on revising the SafeSea study protocol documents, and implement the newest condition of the plugin discussed last Thursday.\u00a0I will also take the time to reach out over email to other REUs we\u2019ve extended offers to, and see if they would like to discuss the projects lined up for the summer."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2DDE28CF-B70F-42CF-9BF8-3490F3FA5D37",
+        "type": "message",
+        "text": "Last week: I set up firebase for Apps vs. Hackers and started to implement changes into the code for Apps vs. Hackers.\n\nThis week: I will continue to ideate and implement changes.",
+        "user": "UT3DDUBGX",
+        "ts": "1583197292.009700",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "U1nf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week: I set up firebase for Apps vs. Hackers and started to implement changes into the code for Apps vs. Hackers.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: I will continue to ideate and implement changes."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8457A972-B4BE-451C-B036-9C9038D03DAB",
+        "type": "message",
+        "text": "Last week:\nI looked for papers on metrics presenting different types of social information\/norms to users \n\nThis week: \nI will look for metrics\/methods on measuring users\u2019 perception of how they identify with a community\n\n",
+        "user": "UT3PMPLBY",
+        "ts": "1583189393.007400",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "W=ah",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:\nI looked for papers on metrics presenting different types of social information\/norms to users \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "I will look for metrics\/methods on measuring users\u2019 perception of how they identify with a community\n\n"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA",
+                    "U04850VSC"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "492ce9b4-3113-468c-802b-4f2b6fe2a319",
+        "type": "message",
+        "text": "*On that note:* When you are in the lab, feel free to use the hand sanitizer and surface wipes we have on hand - I feel like it\u2019s better to be too concerned than not concerned enough about germs being spread. Thank you also to those of you who have stayed home when feeling ill!",
+        "user": "U71G5QJMA",
+        "ts": "1583165803.004100",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NGogj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "On that note:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " When you are in the lab, feel free to use the hand sanitizer and surface wipes we have on hand - I feel like it\u2019s better to be too concerned than not concerned enough about germs being spread. Thank you also to those of you who have stayed home when feeling ill!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d24fc5bc-0e2f-4d7a-8b86-99c2e997e10a",
+        "type": "message",
+        "text": "*Last week:* Finally made some research progress of my own to report! :tada: Started honing in on more-specific research questions for our Workplace Cybersecurity study. Laura Dabbish pointed me to some papers in Science and Technology Studies (STS) in a related vein, studying the ad-hoc information infrastructures that grow up around locations and institutions during the course of knowledge work. I also revised and resubmitted a paper from an earlier study of mine on live-streaming video. *This week:* I will be meeting with Serena Wang to go over her workplace interview data to date, to help us to refine our Workplace Cybersecurity study. We may add 1-2 questions to our interview protocol to ask about the impact of Covid-19 prep on people\u2019s account and device sharing, if any.",
+        "user": "U71G5QJMA",
+        "ts": "1583165493.000500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "YnuzF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " Finally made some research progress of my own to report! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Started honing in on more-specific research questions for our Workplace Cybersecurity study. Laura Dabbish pointed me to some papers in Science and Technology Studies (STS) in a related vein, studying the ad-hoc information infrastructures that grow up around locations and institutions during the course of knowledge work. I also revised and resubmitted a paper from an earlier study of mine on live-streaming video. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I will be meeting with Serena Wang to go over her workplace interview data to date, to help us to refine our Workplace Cybersecurity study. We may add 1-2 questions to our interview protocol to ask about the impact of Covid-19 prep on people\u2019s account and device sharing, if any."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5566A21A-F33E-4A97-BF17-EC7DCF74646C",
+        "type": "message",
+        "text": "Last week:\nI noted some research papers on metrics\/methods for measuring the individual differences that we decided to focus on from the SafeSea protocol\n\nThis week:\nI will look for papers on methods\/metrics for impact of different types of social information\/norms on users",
+        "user": "UT3PMPLBY",
+        "ts": "1582593703.003700",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "NA+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:\nI noted some research papers on metrics\/methods for measuring the individual differences that we decided to focus on from the SafeSea protocol\n\nThis week:\nI will look for papers on methods\/metrics for impact of different types of social information\/norms on users"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "197BB55D-6D3B-4122-89C8-BDF693F42079",
+        "type": "message",
+        "text": "*Last week*\nI figured out firebase, completed general documentation for Apps vs. Hackers code, and started to make some changes to the game.\n\n*This week*\nI will implement firebase into the project and continue to make improvements to the game.",
+        "user": "UT3DDUBGX",
+        "ts": "1582579744.003100",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "\/c4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI figured out firebase, completed general documentation for Apps vs. Hackers code, and started to make some changes to the game.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will implement firebase into the project and continue to make improvements to the game."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04850VSC",
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd7a03ca-9203-40b9-8077-fd872020be4a",
+        "type": "message",
+        "text": "New paper for CHI 2020 looks very relevant to all of us who are working on sharing of accounts and devices - \u201cthe Burden of Ending Online Account Sharing\u201d <http:\/\/lersse-dl.ece.ubc.ca\/record\/333\/files\/Paper503.pdf>",
+        "user": "U71G5QJMA",
+        "ts": "1582052743.001100",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pPpO",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "New paper for CHI 2020 looks very relevant to all of us who are working on sharing of accounts and devices - \u201cthe Burden of Ending Online Account Sharing\u201d "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http:\/\/lersse-dl.ece.ubc.ca\/record\/333\/files\/Paper503.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "63F8271B-9015-4839-8DA6-0FDC0CBFD451",
+        "type": "message",
+        "text": "*Last week:*\nIsadora and I continued revising the Safesea protocol by reviewing the measures that we came up with the week before and brainstorming ways to manipulate\/measure them in a sensible way. \n\n*This week:*\nI will continue finding research papers on metrics\/methods for measuring individual differences as well as other possible ways to measure levels of engagement. I will meet with Isadora to discuss these findings which will give direction to the protocol.",
+        "user": "UT3PMPLBY",
+        "ts": "1581983677.002800",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lOUGA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nIsadora and I continued revising the Safesea protocol by reviewing the measures that we came up with the week before and brainstorming ways to manipulate\/measure them in a sensible way. \n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will continue finding research papers on metrics\/methods for measuring individual differences as well as other possible ways to measure levels of engagement. I will meet with Isadora to discuss these findings which will give direction to the protocol."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U04850VSC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60c386a5-3738-4bb0-b45b-8009dc16bec8",
+        "type": "message",
+        "text": "_*Last week*_\u00a0\nAll versions of the plugin were officially approved on Thursday and are now live on the Chrome webstore! I finalized a list of prospective REUs for the summer with Laura. I also worked on revising the SafeSea protocol with Michelle\u2019s help and presented the new version to Laura, who provided additional feedback. Erin and I had a long meeting to discuss and begin drafting vital changes to Apps vs. Hackers, and based on a compilation of results and feedback from our cognitive walkthroughs and based on our the data collected by a previous evaluative study of the game.\u00a0\n\n_*This week*_\u00a0\nI will begin working on changes to the documents for the new SafeSea protocol, and finish my work with MixPanel tracking. Michelle and I will work together to collect metrics and scales for measuring user\u2019s individual differences in the SafeSea study, and to enrich our related works. Today Erin and I have created a list of actionable changes for a minimum viable product with Apps vs. Hackers; I will continue working on our incorporation of social influence, and behavior change theories. I will also mock-up a visual version of our MVP so that she has a reference to work off of when changing (consolidating the design language of the game).\u00a0Later this week Erin and I will meet with Laura to evaluate and compare the pursuit of research on Apps vs. Hackers to further research on Hacked Time.",
+        "user": "UK9GNTJMV",
+        "ts": "1581978229.001600",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RfdX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAll versions of the plugin were officially approved on Thursday and are now live on the Chrome webstore! I finalized a list of prospective REUs for the summer with Laura. I also worked on revising the SafeSea protocol with Michelle\u2019s help and presented the new version to Laura, who provided additional feedback. Erin and I had a long meeting to discuss and begin drafting vital changes to Apps vs. Hackers, and based on a compilation of results and feedback from our cognitive walkthroughs and based on our the data collected by a previous evaluative study of the game.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will begin working on changes to the documents for the new SafeSea protocol, and finish my work with MixPanel tracking. Michelle and I will work together to collect metrics and scales for measuring user\u2019s individual differences in the SafeSea study, and to enrich our related works. Today Erin and I have created a list of actionable changes for a minimum viable product with Apps vs. Hackers; I will continue working on our incorporation of social influence, and behavior change theories. I will also mock-up a visual version of our MVP so that she has a reference to work off of when changing (consolidating the design language of the game).\u00a0Later this week Erin and I will meet with Laura to evaluate and compare the pursuit of research on Apps vs. Hackers to further research on Hacked Time."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "A922171C-F506-4C42-A4F0-EE991DF0BCF6",
+        "type": "message",
+        "text": "*Last week* I continued to work on documenting Apps vs. Hackers, ideated ideas with Isadora, and looked into what cyber security attacks\/preventions exist.\n\n*This week* I will continue to document Apps vs. Hackers, learn about firebase, and meeting with Isadora and Laura to hopefully have a more concrete idea of what should be changed\/implemented in Apps vs. Hackers.",
+        "user": "UT3DDUBGX",
+        "ts": "1581976317.000500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IT2v",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I continued to work on documenting Apps vs. Hackers, ideated ideas with Isadora, and looked into what cyber security attacks\/preventions exist.\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I will continue to document Apps vs. Hackers, learn about firebase, and meeting with Isadora and Laura to hopefully have a more concrete idea of what should be changed\/implemented in Apps vs. Hackers."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U04850VSC"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "70b955a2-110d-4ca5-8a8a-e666e8c7ebf3",
+        "type": "message",
+        "text": "Here is a new paper coming out at CHI 2020 that is of interest to this group, documenting why people might adopt and then stop using security, privacy and identity theft protections: <https:\/\/yixinzou.github.io\/publications\/chi2020-zou.pdf>",
+        "user": "U71G5QJMA",
+        "ts": "1581543108.003200",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y7uK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here is a new paper coming out at CHI 2020 that is of interest to this group, documenting why people might adopt and then stop using security, privacy and identity theft protections: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/yixinzou.github.io\/publications\/chi2020-zou.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "U04850VSC",
+                    "UK9GNTJMV"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7c020288-63a3-4d03-9252-d5d1f709d8d7",
+        "type": "message",
+        "text": "Welcome back <@UMU5PR2HM>! He is working with us as a researcher this semester on an interview and diary study of romantic couples\u2019 cybersecurity practices.",
+        "user": "U71G5QJMA",
+        "ts": "1581522315.000500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7ktD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome back "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UMU5PR2HM"
+                            },
+                            {
+                                "type": "text",
+                                "text": "! He is working with us as a researcher this semester on an interview and diary study of romantic couples\u2019 cybersecurity practices."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "sparkles",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "61184A7F-988F-472A-8122-5FF884F8CBFF",
+        "type": "message",
+        "text": "*Last week*\nI met with Isadora and Laura to understand the changes to be made in the Safe Sea study protocol. After this session, Isadora and I brainstormed ways to implement these new changes.\n\n*This week*\nI will continue brainstorming and meet with Isadora to finish revising the protocol to be discussed again this week.",
+        "user": "UT3PMPLBY",
+        "ts": "1581440637.001400",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r1g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI met with Isadora and Laura to understand the changes to be made in the Safe Sea study protocol. After this session, Isadora and I brainstormed ways to implement these new changes.\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will continue brainstorming and meet with Isadora to finish revising the protocol to be discussed again this week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "8a8ec08c-834b-4266-aa7a-72262ef8aca7",
+        "type": "message",
+        "text": "_*Last week*_\nI spoke to Gus and worked on deploying the last two versions of the plugin to both Heroku as well as the Chrome web store. Both were accepted into the Chrome webstore but I am still making a few changes to the remote versions of one of the conditions. I also met with Laura and Michelle to discuss the study protocols for SafeSea and we outlined a few areas for change. I put Erin in touch with Annie so she could continue her work on Apps vs. Hackers. I also looked looked through Summer REU applications and made notes on people who might be good fits for our projects.\u00a0\n\n_*This week*_\nI am finishing up changes to the remote-website for one version of the plugin. Today I will meet with Laura to discuss the REU Summer applicants. Tomorrow I will meet with Michelle and together we\u2019ll revise the SafeSea protocol and I\u2019ll present it to Laura later this week (until then I will be sifting through data from the first study a year and a half ago to inform some of our decisions). After we get approval, I\u2019ll begin modding the study documents and submit them to the IRB for review. I\u2019ll also mod our MixPanel data collection to accommodate any changes we make to the protocol. This Thursday I will be meeting with Erin to create a comprehensive plan\/list for changes to Apps vs. Hackers; framing it with the study we\u2019d like to conduct with the game.",
+        "user": "UK9GNTJMV",
+        "ts": "1581436045.000300",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RVZC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI spoke to Gus and worked on deploying the last two versions of the plugin to both Heroku as well as the Chrome web store. Both were accepted into the Chrome webstore but I am still making a few changes to the remote versions of one of the conditions. I also met with Laura and Michelle to discuss the study protocols for SafeSea and we outlined a few areas for change. I put Erin in touch with Annie so she could continue her work on Apps vs. Hackers. I also looked looked through Summer REU applications and made notes on people who might be good fits for our projects.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI am finishing up changes to the remote-website for one version of the plugin. Today I will meet with Laura to discuss the REU Summer applicants. Tomorrow I will meet with Michelle and together we\u2019ll revise the SafeSea protocol and I\u2019ll present it to Laura later this week (until then I will be sifting through data from the first study a year and a half ago to inform some of our decisions). After we get approval, I\u2019ll begin modding the study documents and submit them to the IRB for review. I\u2019ll also mod our MixPanel data collection to accommodate any changes we make to the protocol. This Thursday I will be meeting with Erin to create a comprehensive plan\/list for changes to Apps vs. Hackers; framing it with the study we\u2019d like to conduct with the game."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "D3952A0A-3054-4DD2-90AA-0C74C0CA27B6",
+        "type": "message",
+        "text": "*Last week* I continued to learn C# and Unity and started to create documentation for the code for Apps Vs Hackers. \n*This week* I will continue to write the documentation for Apps vs Hackers and ideate ideas for what should be changed. I will also look into FireBase.",
+        "user": "UT3DDUBGX",
+        "ts": "1581366340.001200",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lqj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I continued to learn C# and Unity and started to create documentation for the code for Apps Vs Hackers. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I will continue to write the documentation for Apps vs Hackers and ideate ideas for what should be changed. I will also look into FireBase."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b7f2043-5434-4a52-822c-9f97c8311e9c",
+        "type": "message",
+        "text": "For the Social Web class, I am conducting observations of Twitch channels. Here\u2019s a new type of situation for social cybersecurity - Internet vigilantes who do \u201cscambaiting.\u201d It\u2019s pretty interesting to watch because it\u2019s educational, but obviously also entertainment for those in the chat. <https:\/\/www.twitch.tv\/kitboga>",
+        "user": "U71G5QJMA",
+        "ts": "1580938782.001800",
+        "team": "T04850VRY",
+        "attachments": [
+            {
+                "service_name": "Twitch",
+                "title": "Kitboga - Twitch",
+                "title_link": "https:\/\/www.twitch.tv\/kitboga",
+                "text": "Scammers + Fake Bank [Ep 687]",
+                "fallback": "Twitch: Kitboga - Twitch",
+                "thumb_url": "https:\/\/static-cdn.jtvnw.net\/jtv_user_pictures\/18d0e1da-6bc0-446e-a226-359d3baf3de6-profile_image-300x300.jpg",
+                "from_url": "https:\/\/www.twitch.tv\/kitboga",
+                "thumb_width": 300,
+                "thumb_height": 300,
+                "service_icon": "https:\/\/static.twitchcdn.net\/assets\/favicon-32-d6025c14e900565d6177.png",
+                "id": 1,
+                "original_url": "https:\/\/www.twitch.tv\/kitboga"
+            }
+        ],
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sF37b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "For the Social Web class, I am conducting observations of Twitch channels. Here\u2019s a new type of situation for social cybersecurity - Internet vigilantes who do \u201cscambaiting.\u201d It\u2019s pretty interesting to watch because it\u2019s educational, but obviously also entertainment for those in the chat. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/www.twitch.tv\/kitboga"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "open_mouth",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "58fe212f-1cba-495d-bb43-89162c9cfef6",
+        "type": "message",
+        "text": "*Last Week:*\u00a0\nI conducted cognitive walkthroughs for Apps vs. Hackers to pinpoint areas for improvement. Finished debugging\/completed the crowd-souced version of the SafeSea plugin for one of the conditions of our study. I also compiled a comprehensive master documentation for the plugin including but not limited to: documentation of the code, deploying to heroku, deploying to the chrome store, and how to make specific changes. I also discussed potential additions to the SafeSea study protocol with both Laura and Jason.\u00a0\n\n\n*This Week:* \u00a0\nI am currently working on deploying the last two versions of the plugin for our other study conditions. I have finished developing the two conditions and am working on setting up a new database for them, in addition to creating new heroku servers. I am speaking with Gus (SafeSea\u2019s original programmer) later tonight who will help me in figuring out how to configure the new mongoDB for one of the conditions. I will also be working out how to initiate new MixPanel trackers for the two new plugins. I plan on tying up all the loose ends with the plugin code this week. After I finish that, I will then continue work on the SafeSea study protocol (which I will discuss with Laura &amp; Michelle in a meeting later this week).",
+        "user": "UK9GNTJMV",
+        "ts": "1580771569.003000",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S+5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week:\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI conducted cognitive walkthroughs for Apps vs. Hackers to pinpoint areas for improvement. Finished debugging\/completed the crowd-souced version of the SafeSea plugin for one of the conditions of our study. I also compiled a comprehensive master documentation for the plugin including but not limited to: documentation of the code, deploying to heroku, deploying to the chrome store, and how to make specific changes. I also discussed potential additions to the SafeSea study protocol with both Laura and Jason.\u00a0\n\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week: \u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI am currently working on deploying the last two versions of the plugin for our other study conditions. I have finished developing the two conditions and am working on setting up a new database for them, in addition to creating new heroku servers. I am speaking with Gus (SafeSea\u2019s original programmer) later tonight who will help me in figuring out how to configure the new mongoDB for one of the conditions. I will also be working out how to initiate new MixPanel trackers for the two new plugins. I plan on tying up all the loose ends with the plugin code this week. After I finish that, I will then continue work on the SafeSea study protocol (which I will discuss with Laura & Michelle in a meeting later this week)."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "534127fb-8b85-4d97-8b87-3f3ba7f4e26f",
+        "type": "message",
+        "text": "*Last Week:*\u00a0\nI downloaded SafeSea plugin and played around with it to familiarize\u00a0myself with it. I also looked through the papers (Gustavo\u2019s Final Report and \"Practice What Your Preach\") and a past study protocol material.\u00a0\n\n*This\u00a0Week:*\u00a0\nI\u2019ll continue to look through the SafeSea study material and go over it with Laura and Isadora who I will see this week to discuss about the deployment of the evaluative study for SafeSea.",
+        "user": "UT3PMPLBY",
+        "ts": "1580768624.002300",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ajXC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week:\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI downloaded SafeSea plugin and played around with it to familiarize\u00a0myself with it. I also looked through the papers (Gustavo\u2019s Final Report and \"Practice What Your Preach\") and a past study protocol material.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This\u00a0Week:\u00a0",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI\u2019ll continue to look through the SafeSea study material and go over it with Laura and Isadora who I will see this week to discuss about the deployment of the evaluative study for SafeSea."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U71G5QJMA"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "client_msg_id": "B0FAF030-465C-44F8-A95B-32EEFB4C990C",
+        "type": "message",
+        "text": "*This week:* I ran cognitive walkthroughs for AppsVS Hackers and started to ideate changes to the game. I also started to learn Unity and figure out how it works. \n*Next week*: I will work on coming up with ideas for AppsVsHackers, going through the documents and continue to learn Unity and C#.",
+        "user": "UT3DDUBGX",
+        "ts": "1580762379.001300",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cWL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This week: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I ran cognitive walkthroughs for AppsVS Hackers and started to ideate changes to the game. I also started to learn Unity and figure out how it works. \n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "Next week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": I will work on coming up with ideas for AppsVsHackers, going through the documents and continue to learn Unity and C#."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "+1",
+                "users": [
+                    "UK9GNTJMV",
+                    "U04850VSC",
+                    "U71G5QJMA"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "client_msg_id": "60dffbba-eba9-4349-8faf-aa96d75d69dc",
+        "type": "message",
+        "text": "*Last week*: I hired 1 more student, Michelle Ling, for our Workplace Cybersecurity project - her job will be to create a working prototype of a social authentication system for Slack.\u00a0Welcome <@USZ2S5H8A>!\n\n*This week:* I am talking with Wondros, a marketing firm, about our \u201ccyber health\u201d research that adapts ideas from health psychology. I\u2019ll be finishing up a draft paper of my SA-13 psychometric scales.",
+        "user": "U71G5QJMA",
+        "ts": "1580754861.000400",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "v5OwC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": ": I hired 1 more student, Michelle Ling, for our Workplace Cybersecurity project - her job will be to create a working prototype of a social authentication system for Slack.\u00a0Welcome "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "USZ2S5H8A"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am talking with Wondros, a marketing firm, about our \u201ccyber health\u201d research that adapts ideas from health psychology. I\u2019ll be finishing up a draft paper of my SA-13 psychometric scales."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            },
+            {
+                "name": "+1",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "clap",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1580421219.000300",
+        "user": "USZ2S5H8A",
+        "text": "<@USZ2S5H8A> has joined the channel"
+    },
+    {
+        "client_msg_id": "87837acb-c7cf-4e86-89b5-60a7525acaf4",
+        "type": "message",
+        "text": ":rotating_light::page_facing_up: Hi all, <@U04850VSC> just pointed out a new paper from our friend Sauvik Das and colleagues: \u201cWe Hold Each Other Accountable\u201d: Unpacking How Social\nGroups Approach Cybersecurity and Privacy Together, which will appear this year at CHI 2020. Here is the link: <https:\/\/sauvikdas.com\/uploads\/paper\/pdf\/23\/file.pdf>",
+        "user": "U71G5QJMA",
+        "ts": "1580246594.008000",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qw6a",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "emoji",
+                                "name": "rotating_light"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "page_facing_up"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi all, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04850VSC"
+                            },
+                            {
+                                "type": "text",
+                                "text": " just pointed out a new paper from our friend Sauvik Das and colleagues: \u201cWe Hold Each Other Accountable\u201d: Unpacking How Social\nGroups Approach Cybersecurity and Privacy Together, which will appear this year at CHI 2020. Here is the link: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/sauvikdas.com\/uploads\/paper\/pdf\/23\/file.pdf"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "party_parrots",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "898cafe3-194a-4dcc-87aa-d3802ca3f943",
+        "type": "message",
+        "text": "_*Last Week:*_\u00a0\nI interviewed several potential research assistants alongside Cori. We hired two undergrads (Michelle and Erin) and I spent the remainder of last week drafting up the paperwork for their independent study proposals. They will both be sitting in on weekly meetings with me, and have shared all the required CITI certificates. I also began reviewing the SafeSea study protocol as one of the next steps for deploying the study. \u00a0\n\n_*This Week:*_\u00a0\nI\u2019ll continue to sit in on interviews for research assistants with Cori, and continue work on the residual issues with the SafeSea plugin. I\u2019ll also be creating the other versions of the plugin for each condition of the SafeSea study and creating comprehensive documentation for future collaborators along the way. I had my first weekly meeting today with Erin, wherein we established several areas for improvement of our social influence\/privacy mini-games. I\u2019ll be continuing to catch up on the progress with Apps vs. Hackers when I receive the most recent documents from Annie. In the meantime, Erin and I will conduct several cognitive walkthroughs of Apps vs. Hackers to gain a better understanding of it\u2019s usability.",
+        "user": "UK9GNTJMV",
+        "ts": "1580165117.006700",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "pi\/Pq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last Week:\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI interviewed several potential research assistants alongside Cori. We hired two undergrads (Michelle and Erin) and I spent the remainder of last week drafting up the paperwork for their independent study proposals. They will both be sitting in on weekly meetings with me, and have shared all the required CITI certificates. I also began reviewing the SafeSea study protocol as one of the next steps for deploying the study. \u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This Week:\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI\u2019ll continue to sit in on interviews for research assistants with Cori, and continue work on the residual issues with the SafeSea plugin. I\u2019ll also be creating the other versions of the plugin for each condition of the SafeSea study and creating comprehensive documentation for future collaborators along the way. I had my first weekly meeting today with Erin, wherein we established several areas for improvement of our social influence\/privacy mini-games. I\u2019ll be continuing to catch up on the progress with Apps vs. Hackers when I receive the most recent documents from Annie. In the meantime, Erin and I will conduct several cognitive walkthroughs of Apps vs. Hackers to gain a better understanding of it\u2019s usability."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88bc5ec1-25b9-41d7-8289-d7ec756744bf",
+        "type": "message",
+        "text": "*This week:* I\u2019ll be wrapping up interviews about research help and also, hopefully, wrapping up the draft of a research paper.",
+        "user": "U71G5QJMA",
+        "ts": "1580139358.003800",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xkq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This week:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I\u2019ll be wrapping up interviews about research help and also, hopefully, wrapping up the draft of a research paper."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1580139292.002900",
+        "user": "UT1R7A672",
+        "text": "<@UT1R7A672> has joined the channel",
+        "inviter": "U71G5QJMA"
+    },
+    {
+        "client_msg_id": "085c8289-ae4d-40ca-a14a-260b160fa7aa",
+        "type": "message",
+        "text": "*My weekly update:* I\u2019ve been busy talking with students who are interested in joining our project. Happy to say we have <@UT1R7A672> now on board to help with systems side of the Workplace Cybersecurity study, taking the place of Erin Ho. She will sit in on weekly  meetings for now and get up to speed on CITI training and research background. On that note also, Serena Wang and John Han are looking for CMU employees to interview about sharing of devices and accounts - let them know if you can think of anyone good to recruit for the study.",
+        "user": "U71G5QJMA",
+        "ts": "1580139287.002700",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "o4HK",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "My weekly update: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I\u2019ve been busy talking with students who are interested in joining our project. Happy to say we have "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT1R7A672"
+                            },
+                            {
+                                "type": "text",
+                                "text": " now on board to help with systems side of the Workplace Cybersecurity study, taking the place of Erin Ho. She will sit in on weekly  meetings for now and get up to speed on CITI training and research background. On that note also, Serena Wang and John Han are looking for CMU employees to interview about sharing of devices and accounts - let them know if you can think of anyone good to recruit for the study."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "clap",
+                "users": [
+                    "U04850VSC"
+                ],
+                "count": 1
+            },
+            {
+                "name": "tada",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d2a7fb5d-a846-4aa7-9656-ab1be4d51785",
+        "type": "message",
+        "text": "Welcome to the team <@UT3PMPLBY> &amp; <@UT3DDUBGX>!! :confetti_ball: Michelle will be working on the completion of the SafeSea project with Cori and I, and Erin will be assisting me with our social-influence games!",
+        "user": "UK9GNTJMV",
+        "ts": "1579818123.002300",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "thKA",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome to the team "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT3PMPLBY"
+                            },
+                            {
+                                "type": "text",
+                                "text": " & "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UT3DDUBGX"
+                            },
+                            {
+                                "type": "text",
+                                "text": "!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "confetti_ball"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Michelle will be working on the completion of the SafeSea project with Cori and I, and Erin will be assisting me with our social-influence games!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "tada",
+                "users": [
+                    "U71G5QJMA",
+                    "U04850VSC",
+                    "UT3PMPLBY"
+                ],
+                "count": 3
+            },
+            {
+                "name": "heart",
+                "users": [
+                    "UT3DDUBGX"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1579814271.000500",
+        "user": "UT3DDUBGX",
+        "text": "<@UT3DDUBGX> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1579809638.000300",
+        "user": "UT3PMPLBY",
+        "text": "<@UT3PMPLBY> has joined the channel",
+        "inviter": "UK9GNTJMV"
+    },
+    {
+        "client_msg_id": "ab611b24-721a-4c84-9729-6cc667079392",
+        "type": "message",
+        "text": "_*Last week:*_\u00a0\nI finished the new draft of the experts vs. non-experts paper, and submitted it to CSCW\u2019s Jan 15th cycle :party_parrots:. After extensively emailing back and forth with folks from Google about the SafeSea plugin, I resubmitted it and found out _this morning_ that it was unbanned\/re-published yesterday!! :tada::sparkles:\n\n_*This week:*_\u00a0\nI will take the next steps to deploy the SafeSea plugin study, after getting the rest of the documents from Yun &amp; Yiying. I will finish up with the SafeSea Plugin back-up plan\u2019s installation\/de-installation tutorial for Windows OS users. I will be meeting with two undergraduates this week alongside Cori to determine their fit for an RA position on our study projects. I will also get up to speed on the \u201cApps vs. Hackers\u201d study now that Annie is leaving our team, and start ideating for the continuation of the \u201cHacked Time\u201d study.",
+        "user": "UK9GNTJMV",
+        "ts": "1579623765.006800",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lhG",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI finished the new draft of the experts vs. non-experts paper, and submitted it to CSCW\u2019s Jan 15th cycle "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "party_parrots"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". After extensively emailing back and forth with folks from Google about the SafeSea plugin, I resubmitted it and found out "
+                            },
+                            {
+                                "type": "text",
+                                "text": "this morning",
+                                "style": {
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " that it was unbanned\/re-published yesterday!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "tada"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "sparkles"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week:\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI will take the next steps to deploy the SafeSea plugin study, after getting the rest of the documents from Yun & Yiying. I will finish up with the SafeSea Plugin back-up plan\u2019s installation\/de-installation tutorial for Windows OS users. I will be meeting with two undergraduates this week alongside Cori to determine their fit for an RA position on our study projects. I will also get up to speed on the \u201cApps vs. Hackers\u201d study now that Annie is leaving our team, and start ideating for the continuation of the \u201cHacked Time\u201d study."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ae8083b4-482d-49c9-b251-124f0b16d030",
+        "type": "message",
+        "text": "*Last week for me:* I worked on a draft of my  Security Attitude scales journal article and got back in touch with research assistants to either wrap up or continue their work on Social Cybersecurity projects. *This week:* I started as a TA for PUI, and will take 2 other classes. I met with our Workplace Cybersecurity RAs to make sure they can pick up their work to schedule and interview CMU employees about sharing accounts and devices. I read and gave feedback to Isadora on her paper. I will finish a draft of my Security Attitude paper.",
+        "user": "U71G5QJMA",
+        "ts": "1579033994.000500",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "gL3Z+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week for me:",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " I worked on a draft of my  Security Attitude scales journal article and got back in touch with research assistants to either wrap up or continue their work on Social Cybersecurity projects. "
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week: ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "I started as a TA for PUI, and will take 2 other classes. I met with our Workplace Cybersecurity RAs to make sure they can pick up their work to schedule and interview CMU employees about sharing accounts and devices. I read and gave feedback to Isadora on her paper. I will finish a draft of my Security Attitude paper."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7655d2f0-5de9-4d47-9e25-2080aee2a4df",
+        "type": "message",
+        "text": "_*Last week:*_\u00a0\nI finished transcribing the additional expert interviews conducted in December, and incorporated them into a new draft of the experts vs. non-experts paper. I reached out to Yun &amp; Yiying for any materials, documents, code they still need to share with me. I\u2019ve been emailing back and forth with folks from Google about the SafeSea plugin, and have been reaching out to receive additional guidance on what needs to change with our plugin in order to deploy it in the chrome store.\u00a0\n\n_*This week:*_\u00a0\nI finished a new draft of the experts vs. non-experts paper yesterday. I will get some feedback from Cori and Laura, and revise it through the week. I will also continue work on supplementary materials for the contingency plan (for deploying the SafeSea plugin outside the chrome store), creating documents\/media to help guide remote participants through the installation\/de-installation\/trouble-shooting process for downloading SafeSea remotely. I finished the Mac OS user oriented version, and will finish the Windows OS user oriented version this week.",
+        "user": "UK9GNTJMV",
+        "ts": "1579016701.000200",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eTMk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Last week:\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI finished transcribing the additional expert interviews conducted in December, and incorporated them into a new draft of the experts vs. non-experts paper. I reached out to Yun & Yiying for any materials, documents, code they still need to share with me. I\u2019ve been emailing back and forth with folks from Google about the SafeSea plugin, and have been reaching out to receive additional guidance on what needs to change with our plugin in order to deploy it in the chrome store.\u00a0\n\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "This week:\u00a0",
+                                "style": {
+                                    "bold": true,
+                                    "italic": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nI finished a new draft of the experts vs. non-experts paper yesterday. I will get some feedback from Cori and Laura, and revise it through the week. I will also continue work on supplementary materials for the contingency plan (for deploying the SafeSea plugin outside the chrome store), creating documents\/media to help guide remote participants through the installation\/de-installation\/trouble-shooting process for downloading SafeSea remotely. I finished the Mac OS user oriented version, and will finish the Windows OS user oriented version this week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6f7f2cdc-1fd4-48dd-b044-5dc7ab4df6f1",
+        "type": "message",
+        "text": "^^ The REU summer projects for Social Cybersecurity are listed under Laura Dabbish as faculty mentor.",
+        "user": "U71G5QJMA",
+        "ts": "1578676853.002900",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qbFC",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "^^ The REU summer projects for Social Cybersecurity are listed under Laura Dabbish as faculty mentor."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b82826f9-52a2-4b32-a425-5b4dd38cfb72",
+        "type": "message",
+        "text": "Also, please note that the deadline for the summer Research Experiences for Undergraduates program is coming up fast. If you need a letter of recommendation from one of us, let one of us know ASAP. <https:\/\/hcii.cmu.edu\/summer-research-program>",
+        "user": "U71G5QJMA",
+        "ts": "1578676690.002400",
+        "team": "T04850VRY",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vLm",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Also, please note that the deadline for the summer Research Experiences for Undergraduates program is coming up fast. If you need a letter of recommendation from one of us, let one of us know ASAP. "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/hcii.cmu.edu\/summer-research-program"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Welcome back to campus! I will be emailing a few of you directly about research for this semester. Feel free to reach out to me also if you haven\u2019t heard from me - or just drop by. Here is a link to my tentative weekly schedule: <https:\/\/docs.google.com\/spreadsheets\/d\/1u5DQiowCLRJV2MAI5wtfRYPuxW8K-nQOibUtgcFI7_I\/edit?usp=sharing>",
+        "files": [
+            {
+                "id": "FS7DS10AV",
+                "created": 1578676577,
+                "timestamp": 1578676577,
+                "name": "Schedule_Cori_SP20",
+                "title": "Schedule_Cori_SP20",
+                "mimetype": "application\/vnd.google-apps.spreadsheet",
+                "filetype": "gsheet",
+                "pretty_type": "GSuite Spreadsheet",
+                "user": "U71G5QJMA",
+                "editable": false,
+                "size": 54068,
+                "mode": "external",
+                "is_external": true,
+                "external_type": "gdrive",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/docs.google.com\/spreadsheets\/d\/1u5DQiowCLRJV2MAI5wtfRYPuxW8K-nQOibUtgcFI7_I\/edit?usp=sharing",
+                "thumb_64": "https:\/\/a.slack-edge.com\/80588\/img\/files\/gsheet_64.png",
+                "thumb_360": "https:\/\/a.slack-edge.com\/80588\/img\/files\/gsheet_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 167,
+                "permalink": "https:\/\/coexlab.slack.com\/files\/U71G5QJMA\/FS7DS10AV\/schedule_cori_sp20",
+                "is_starred": false,
+                "external_id": "1u5DQiowCLRJV2MAI5wtfRYPuxW8K-nQOibUtgcFI7_I",
+                "external_url": "https:\/\/docs.google.com\/spreadsheets\/d\/1u5DQiowCLRJV2MAI5wtfRYPuxW8K-nQOibUtgcFI7_I\/edit?usp=sharing",
+                "has_rich_preview": true
+            }
+        ],
+        "upload": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r+6aa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Welcome back to campus! I will be emailing a few of you directly about research for this semester. Feel free to reach out to me also if you haven\u2019t heard from me - or just drop by. Here is a link to my tentative weekly schedule: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https:\/\/docs.google.com\/spreadsheets\/d\/1u5DQiowCLRJV2MAI5wtfRYPuxW8K-nQOibUtgcFI7_I\/edit?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "U71G5QJMA",
+        "display_as_bot": false,
+        "x_files": [
+            "FS7DS10AV"
+        ],
+        "ts": "1578676575.001200",
+        "client_msg_id": "2972f294-9eb2-42d1-a7f8-081b593bc9c9"
+    },
+    {
+        "client_msg_id": "5D6E0648-23EE-4EC6-85F3-396AA8AF1E36",
+        "type": "message",
+        "text": "Happy holidays all! The NY Times put out an interesting piece of data journalism today with a massive location history dataset. Check it out: <http:\/\/nytimes.com\/tracked>",
+        "user": "U04850VSC",
+        "ts": "1576763680.001800",
+        "team": "T04850VRY",
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "UK9GNTJMV"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

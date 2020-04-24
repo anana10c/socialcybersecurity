@@ -1,1 +1,85 @@
-<p> Hello </p>
+<!DOCTYPE html>
+<html> 
+
+<style>
+    #michelleupdates {
+        display:none;
+    }
+    #michelle:checked ~ #michelleupdates {
+        display:block;
+    }
+    #coriupdates {
+        display:none;
+    }
+    #cori:checked ~ #coriupdates {
+        display:block;
+    }
+    #serenaupdates {
+        display:none;
+    }
+    #serena:checked ~ #serenaupdates {
+        display:block;
+    }
+    #annaupdates {
+        display:none;
+    }
+    #anna:checked ~ #annaupdates {
+        display:block;
+    }
+</style>
+
+<body>
+<form onsubmit="showupdates()">
+
+    <h3> MEETING MINUTES </h3> <br/>
+    <p1> <b>Attendance</b> </p1><br>
+
+    <input type="checkbox" id="michelle" name="attendee" value="Michelle"/>
+    <label for="michelle">Michelle</label><br>
+
+    <input type="checkbox" id="cori" name="attendee" value="Cori"/>
+    <label for="cori">Cori</label><br>
+
+    <input type="checkbox" id="serena" name="attendee" value="Serena"/>
+    <label for="serena">Serena</label><br>
+
+    <input type="checkbox" id="anna" name="attendee" value="Anna"/>
+    <label for="anna">Anna</label><br>
+
+    <br />
+
+    <p1> <b>Agenda</b> </p1><br>
+    <textarea id="agenda" name = "agenda" rows="10" cols="60"> </textarea>
+
+    <br/>
+    <p1> <b>Updates</b> </p1><br>
+
+    <div id="michelleupdates">
+        <label for="michelleupdates"> From Michelle: </label> <br/>
+        <textarea id="Michelle" name="updates" rows="5" cols="60"> </textarea>
+    </div>
+
+    <div id="coriupdates">
+        <label for="coriupdates"> From Cori: </label> <br/>
+        <textarea id="Cori" name="updates" rows="5" cols="60"> </textarea>
+    </div>
+
+    <div id="serenaupdates">
+        <label for="serenaupdates"> From Serena: </label> <br/>
+        <textarea id="Serena" name="updates" rows="5" cols="60"> </textarea>
+    </div>
+
+    <div id="annaupdates">
+        <label for="annaupdates"> From Anna: </label> <br/>
+        <textarea id="Anna" name="updates" rows="5" cols="60"> </textarea>
+    </div>
+
+
+    <br />
+    <input type="submit" name="submit" value="Submit">
+</form>
+
+<script src="updates.js"></script>  
+<script>showupdates();</script>
+</body>
+</html>
