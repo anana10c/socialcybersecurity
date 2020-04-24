@@ -1,0 +1,64 @@
+Call to Order
+4:35pm on 3/27
+
+Attendees
+Cori
+Michelle
+Anna
+Serena
+David
+
+Agenda
+Positive things that happened this week
+Individual updates and steps for next week
+
+Updates
+Cori
+Publicizing the interview study b/c got IRB approval
+Hire third-party transcribers
+Nice publicity from CMU SCS HCII on social media
+Possible media release
+Recruited some more people to participate in the study
+Obstacles in the coming week
+Recruiting more people and how to proceed during the summer
+Serena
+Two people filled out google survey -> will schedule interviews
+Transcribing interview from before 
+Interviews over Zoom
+Can easily look through files and services for specifics on computer
+Anna
+Almost done with training modules
+Plans for what project to work on
+Michelle
+Made a text file parser to convert into question bank
+Obstacles and next steps
+Error bounds for fill-in-the-blank questions
+Generate the past messages and finding random messages
+From Slack API
+Send a to-do list to Anna / make appointment
+Make appointment with Cori
+Note-taking behavior
+Have groups make their own templates but not too specific
+Converting to JSON files
+Try a CSV file
+Knowing who your user is, focus on 1-2 industries first
+David
+Romantic cybersecurity, how couples share their account
+Diary study
+Text base with participants give you richer data and help them think about how to answer the question
+Reflects on their romantic relationship
+Reddit is a good recruiting platform
+Action Items
+Cori 
+Hire third-party transcribers
+Recruiting more people 
+Serena
+Schedule two interviews
+Michelle
+Look at Slack API
+Work on creating error bounds for questions
+Anna
+Finish training modules
+David 
+Fun Fact 
+There are 132 rooms in the White House. 
