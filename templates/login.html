@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+<h3> Hello, {{ user }}! </h3>
+
+<form method="POST">
+  <pr>
+  	{{ mc }}
+  </pr><br>
+  {% for choice in choices %}
+  <input type="checkbox" id="{{ choice }}" name="{{ choice }}">
+  <label for="choice"> {{ choice }}</label><br>
+  {% endfor %}<br>
+
+  <label for="short">{{ short }}</label><br>
+  <input type="text" id="short" name="short"><br>
+  <input type="submit" value="Submit">
+</form>
+
+</body>
+</html>
