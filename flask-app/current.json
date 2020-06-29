@@ -1,0 +1,1 @@
+{"user": "anna", "mc": "this is a multiple select question", "mc_answers": {"choice one": true, "choice two": true, "choice three": true, "none of the above": false}, "short": "this is a short answer question", "short_answers": ["this is a possible answer!", "this is another possible answer!"]}
