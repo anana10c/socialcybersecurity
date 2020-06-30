@@ -23,24 +23,24 @@ function Navbar() {
           <nav>
             <ul>
               <li>
-                <Link to="/">Home</Link>
+                <Link to="/socialcybersecurity">Home</Link>
               </li>
               <li>
-                <Link to="/login">Login</Link>
+                <Link to="/socialcybersecurity/login">Login</Link>
               </li>
               <li>
-                <Link to="/update">Update Notes</Link>
+                <Link to="/socialcybersecurity/update">Update Notes</Link>
               </li>
             </ul>
           </nav>
           <Switch>
-            <Route path="/login">
+            <Route path="/socialcybersecurity/login">
               <Login />
             </Route>
-            <Route path="/update">
+            <Route path="/socialcybersecurity/update">
               <Update />
             </Route>
-            <Route path="/">
+            <Route path="/socialcybersecurity">
               <Home />
             </Route>
           </Switch>
