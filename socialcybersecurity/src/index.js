@@ -11,7 +11,6 @@ import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
     <Navbar />,
-    <h1>hello, world</h1>,
     document.getElementById('root')
 );
 
