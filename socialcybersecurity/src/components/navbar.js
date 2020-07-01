@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Home from './../home';
+import Login from './../login';
+import Update from './../update';
+import Result from './../result'
 import {
   BrowserRouter as Router,
   Switch,
@@ -8,22 +11,16 @@ import {
   Link
 } from "react-router-dom";
 
-function Login() {
-	return <h2>login</h2>;
-}
-
-function Update() {
-	return <h2>update</h2>;
-}
-
-function Navbar() {
-  return (
-    <Router>
+class Navbar extends React.Component {
+  render() {
+    return (
+      <Router>
         <div>
           <nav>
+            <h3><a href="/">Home</a></h3>
             <ul>
               <li>
-                <Link to="/socialcybersecurity">Home</Link>
+                <Link to="/socialcybersecurity">Social Cybersecurity Home</Link>
               </li>
               <li>
                 <Link to="/socialcybersecurity/login">Login</Link>
@@ -40,13 +37,17 @@ function Navbar() {
             <Route path="/socialcybersecurity/update">
               <Update />
             </Route>
+            <Route path="/socialcybersecurity/result">
+              <Result />
+            </Route>
             <Route path="/socialcybersecurity">
               <Home />
             </Route>
           </Switch>
         </div>
       </Router>
-  );
+    );
+  }
 }
 
 export default Navbar;
