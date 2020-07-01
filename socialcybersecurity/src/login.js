@@ -44,10 +44,14 @@ class Login extends React.Component {
   	.then(response => response.json())
   	.then(data => {console.log('Success:', data);})
   	.catch((error) => {console.error('Error:', error);});
-  	this.setState({submited: true});
+  	this.setState({submitted: true});
   }
 
   render() {
+  	if (this.state.submitted) {
+  		return (<Redirect to='/socialcybersecurity/result' />);
+  	}
+  	
   	const checkboxes = Object.keys(this.state.mcChoices).map(choice =>
   		(<React.Fragment>
   			<input name={choice} id={choice} type="checkbox" onChange={this.handleCheckChange} />

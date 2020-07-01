@@ -19,7 +19,7 @@ class Result extends React.Component {
 	  <div className="Result">
 	    <header className="result-header">
 	      <h1>
-	        {this.state.msg}}
+	        {this.state.msg}
 	      </h1>
 	    </header>
 	  </div>
