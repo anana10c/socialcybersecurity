@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Home from './../home';
+import Admin from './../admin';
 import Login from './../login';
 import Update from './../update';
-import Result from './../result'
+import Result from './../result';
 import {
   BrowserRouter as Router,
   Switch,
@@ -23,6 +24,9 @@ class Navbar extends React.Component {
                 <Link to="/socialcybersecurity">Social Cybersecurity Home</Link>
               </li>
               <li>
+                <Link to="/socialcybersecurity/admin">Admin Only</Link>
+              </li>
+              <li>
                 <Link to="/socialcybersecurity/login">Login</Link>
               </li>
               <li>
@@ -31,6 +35,9 @@ class Navbar extends React.Component {
             </ul>
           </nav>
           <Switch>
+            <Route path="/socialcybersecurity/admin">
+              <Admin />
+            </Route>
             <Route path="/socialcybersecurity/login">
               <Login />
             </Route>

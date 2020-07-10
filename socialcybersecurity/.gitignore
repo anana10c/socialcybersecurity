@@ -25,3 +25,9 @@ yarn-error.log*
 
 # python
 __pycache__/*
+attempts/*
+notes/*
+current.json
+result.json
+users.json
+notes.json

@@ -18,14 +18,14 @@ class Login extends React.Component {
     fetch('/login_data')
       .then(response => response.json())
       .then(data => this.setState({name: data['name'],
-								   mcQuestion: data['mcQuestion'],
-								   mcChoices: data['mcChoices'],
-								   shortQuestion: data['shortQuestion']}));
+  								   mcQuestion: data['mcQuestion'],
+  								   mcChoices: data['mcChoices'],
+  								   shortQuestion: data['shortQuestion']}));
   }
 
   handleCheckChange = event => {
     const target = event.target;
-    const newObj = {...this.state.mcChoices, [target.name]: target.checked}
+    const newObj = {...this.state.mcChoices, [target.name]: target.checked};
     this.setState({mcChoices: newObj});
   }
 
@@ -65,17 +65,16 @@ class Login extends React.Component {
             hello, {this.state.name}!
           </h3>
           <form onSubmit={this.handleSubmit}>
-			<p>{this.state.mcQuestion}</p>
-			{checkboxes}<br/>
-
-			<label>{this.state.shortQuestion}</label><br/>
-			<input
-			  name="short"
-			  type="text"
-			  value={this.state.shortResponse}
-			  onChange={this.handleTextChange} /><br/><br/>
-			<input type="submit" value="Submit" />
-		  </form>
+            <p>{this.state.mcQuestion}</p>
+            {checkboxes}<br/>
+            <label>{this.state.shortQuestion}</label><br/>
+            <input
+              name="short"
+              type="text"
+              value={this.state.shortResponse}
+              onChange={this.handleTextChange} /><br/><br/>
+            <input type="submit" value="Submit" />
+          </form>
         </header>
       </div>
     );
