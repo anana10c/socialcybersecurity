@@ -172,4 +172,4 @@ if __name__ == "__main__":
     embed = hub.KerasLayer(module_url)
     # embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
     print("model loading successful")
-    app.run(host='0.0.0.0')
+    app.run(host='0.0.0.0', port=8080, debug=True)
