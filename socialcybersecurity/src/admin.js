@@ -11,7 +11,7 @@ class Admin extends React.Component {
   }
 
   componentDidMount() {
-    fetch('/admin_page')
+    fetch(`${localStorage.getItem('ip')}/admin_page`)
       .then(response => response.json())
       .then(data => this.setState({
                       users: (data['users']).map(
@@ -40,7 +40,7 @@ class Admin extends React.Component {
 
   handleNewUserSubmit = event => {
     // this.setState({users: [...this.state.users, {name: this.state.newUser, isChecked: false}]});
-  	fetch('/admin_page', {
+  	fetch(`${localStorage.getItem('ip')}/admin_page`, {
   		method: 'POST',
   		headers: {
   			'Content-Type': 'application/json',
@@ -53,7 +53,7 @@ class Admin extends React.Component {
   }
 
   handleRemoveUserSubmit = event => {
-    fetch('/admin_page', {
+    fetch(`${localStorage.getItem('ip')}/admin_page`, {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',

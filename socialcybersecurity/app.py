@@ -1,15 +1,11 @@
-from flask import Flask, request, render_template, redirect, url_for
+from flask import Flask, request  # , render_template, redirect, url_for
+from flask_cors import CORS
 import json
 import os
 import random
 import datetime
 import numpy as np
 import tensorflow_hub as hub
-
-module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
-embed = hub.KerasLayer(module_url)
-# embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
-print("model loading successful")
 
 def generate_mc(user, notes_data):
     question = "who was present at the last meeting?"
@@ -60,6 +56,7 @@ def verify_short(input, answers, threshold=0.5):
     return True if similarity >= threshold else False
 
 app = Flask(__name__, static_folder='/build', static_url_path='/')
+CORS(app)
 
 @app.route('/')
 def hello():
@@ -169,3 +166,10 @@ def get_notes_response():
         with open('notes.json', 'w') as f:
             json.dump(request_data, f, ensure_ascii=False)
     return "done"
+
+if __name__ == "__main__":
+    module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
+    embed = hub.KerasLayer(module_url)
+    # embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
+    print("model loading successful")
+    app.run()

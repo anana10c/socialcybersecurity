@@ -11,7 +11,7 @@ class Update extends React.Component {
   }
 
   componentDidMount() {
-    fetch('/notes')
+    fetch(`${localStorage.getItem('ip')}/notes`)
       .then(response => response.json())
       .then(data => this.setState({
                       users: (data['users']).map(
@@ -71,7 +71,7 @@ class Update extends React.Component {
   }
 
   handleSubmit = event => {
-  	fetch('/notes', {
+  	fetch(`${localStorage.getItem('ip')}/notes`, {
   		method: 'POST',
   		headers: {
   			'Content-Type': 'application/json',

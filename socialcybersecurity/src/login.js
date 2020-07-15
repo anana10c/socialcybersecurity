@@ -15,7 +15,7 @@ class Login extends React.Component {
   }
 
   componentDidMount() {
-    fetch('/login_data')
+    fetch(`${localStorage.getItem('ip')}/login_data`)
       .then(response => response.json())
       .then(data => this.setState({name: data['name'],
   								   mcQuestion: data['mcQuestion'],
@@ -34,7 +34,7 @@ class Login extends React.Component {
   }
 
   handleSubmit = event => {
-  	fetch('/login_data', {
+  	fetch(`${localStorage.getItem('ip')}/login_data`, {
   		method: 'POST',
   		headers: {
   			'Content-Type': 'application/json',

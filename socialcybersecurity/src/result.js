@@ -9,7 +9,7 @@ class Result extends React.Component {
   }
 
   componentDidMount() {
-    fetch('/result')
+    fetch(`${localStorage.getItem('ip')}/result`)
       .then(response => response.json())
       .then(data => this.setState({msg: data['msg']}));
   }

@@ -6,8 +6,10 @@ import {
   Switch,
   Route,
   Link
-} from "react-router-dom";
+} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
+
+localStorage.setItem('ip', 'http://35.221.40.171:5000');
 
 ReactDOM.render(
     <Navbar />,
