@@ -9,7 +9,7 @@ import {
 } from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
-localStorage.setItem('ip', 'http://35.221.40.171:5000');
+localStorage.setItem('ip', 'http://35.221.40.171:8080');
 
 ReactDOM.render(
     <Navbar />,
