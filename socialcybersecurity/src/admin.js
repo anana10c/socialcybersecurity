@@ -39,7 +39,7 @@ class Admin extends React.Component {
   }
 
   handleNewUserSubmit = event => {
-    // this.setState({users: [...this.state.users, {name: this.state.newUser, isChecked: false}]});
+    event.preventDefault();
   	fetch(`${localStorage.getItem('ip')}/admin_page`, {
   		method: 'POST',
   		headers: {
@@ -50,9 +50,12 @@ class Admin extends React.Component {
   	.then(response => response.json())
   	.then(data => {console.log('Success:', data);})
   	.catch((error) => {console.error('Error:', error);});
+    this.setState({users: [...this.state.users, {name: this.state.newUser, isChecked: false}],
+                   newUser: ""});
   }
 
   handleRemoveUserSubmit = event => {
+    event.preventDefault();
     fetch(`${localStorage.getItem('ip')}/admin_page`, {
       method: 'POST',
       headers: {
@@ -63,6 +66,8 @@ class Admin extends React.Component {
     .then(response => response.json())
     .then(data => {console.log('Success:', data);})
     .catch((error) => {console.error('Error:', error);});
+    this.setState({users: this.state.users.filter(user => !this.state.removedUsers.includes(user.name)),
+                   removedUsers: []});
   }
 
   render() {

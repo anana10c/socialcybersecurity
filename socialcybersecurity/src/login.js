@@ -34,6 +34,7 @@ class Login extends React.Component {
   }
 
   handleSubmit = event => {
+    event.preventDefault();
   	fetch(`${localStorage.getItem('ip')}/login_data`, {
   		method: 'POST',
   		headers: {
@@ -42,9 +43,9 @@ class Login extends React.Component {
   		body: JSON.stringify(this.state),
   	})
   	.then(response => response.json())
-  	.then(data => {console.log('Success:', data);})
+  	.then(data => {console.log('Success:', data);
+                   this.setState({submitted: true});})
   	.catch((error) => {console.error('Error:', error);});
-  	this.setState({submitted: true});
   }
 
   render() {

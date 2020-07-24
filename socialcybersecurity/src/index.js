@@ -1,14 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Navbar from './components/navbar';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link
-} from 'react-router-dom';
 import * as serviceWorker from './serviceWorker';
 
+// localStorage.setItem('ip', 'http://127.0.0.1:5000');
 localStorage.setItem('ip', 'http://35.221.40.171:8080');
 
 ReactDOM.render(

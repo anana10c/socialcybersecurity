@@ -28,18 +28,18 @@ class Update extends React.Component {
     const target = event.target;
     const name = target.name.slice(0, -4);
     for (var i = 0; i < this.state.users.length; i++) {
-	  if (this.state.users[i].name == name) {
-	  	var newObj = this.state.users[i];
-	    this.state.users.splice(i, 1);
-	    if (target.checked) {
-	      newObj.attendance = true;
-	    }
-	    else {
-	      newObj.attendance = false;
-	    }
-	    this.state.users.splice(i, 0, newObj);
-	  }
-	}
+  	  if (this.state.users[i].name == name) {
+  	  	var newObj = this.state.users[i];
+  	    this.state.users.splice(i, 1);
+  	    if (target.checked) {
+  	      newObj.attendance = true;
+  	    }
+  	    else {
+  	      newObj.attendance = false;
+  	    }
+  	    this.state.users.splice(i, 0, newObj);
+  	  }
+  	}
   }
 
   handleUpdatesChange = event => {
@@ -47,13 +47,13 @@ class Update extends React.Component {
     const name = target.name.slice(0, -8);
     const updates = target.value.split('\n');
     for (var i = 0; i < this.state.users.length; i++) {
-	  if (this.state.users[i].name == name) {
-	  	var newObj = this.state.users[i];
-	    this.state.users.splice(i, 1);
-	    newObj.updates = updates;
-	    this.state.users.splice(i, 0, newObj);
-	  }
-	}
+  	  if (this.state.users[i].name == name) {
+  	  	var newObj = this.state.users[i];
+  	    this.state.users.splice(i, 1);
+  	    newObj.updates = updates;
+  	    this.state.users.splice(i, 0, newObj);
+  	  }
+  	}
   }
 
   handleTodoChange = event => {
@@ -61,16 +61,17 @@ class Update extends React.Component {
     const name = target.name.slice(0, -5);
     const todo = target.value.split('\n');
     for (var i = 0; i < this.state.users.length; i++) {
-	  if (this.state.users[i].name == name) {
-	  	var newObj = this.state.users[i];
-	    this.state.users.splice(i, 1);
-	    newObj.todo = todo;
-	    this.state.users.splice(i, 0, newObj);
-	  }
-	}
+  	  if (this.state.users[i].name == name) {
+  	  	var newObj = this.state.users[i];
+  	    this.state.users.splice(i, 1);
+  	    newObj.todo = todo;
+  	    this.state.users.splice(i, 0, newObj);
+  	  }
+  	}
   }
 
   handleSubmit = event => {
+    event.preventDefault();
   	fetch(`${localStorage.getItem('ip')}/notes`, {
   		method: 'POST',
   		headers: {
@@ -79,12 +80,20 @@ class Update extends React.Component {
   		body: JSON.stringify(this.state),
   	})
   	.then(response => response.json())
-  	.then(data => {console.log('Success:', data);})
+  	.then(data => {console.log('Success:', data);
+                   this.setState({submitted: true});})
   	.catch((error) => {console.error('Error:', error);});
-  	this.setState({submitted: true});
   }
 
   render() {
+    var submitmsg
+    if (this.state.submitted) {
+      submitmsg = "submission successful";
+    }
+    else {
+      submitmsg = "";
+    }
+
   	const attendance = this.state.users.map(user =>
   		(<React.Fragment>
   			<input name={user.name + "-att"} id={user.name + "-att"} type="checkbox" onChange={this.handleAttendanceChange} />
@@ -109,6 +118,9 @@ class Update extends React.Component {
           <h3>
             update meeting notes
           </h3>
+          <p>
+            {submitmsg}
+          </p>
           <form onSubmit={this.handleSubmit}>
             <h4>Attendance</h4>
             {attendance}<br/>

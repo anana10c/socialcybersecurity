@@ -7,6 +7,11 @@ import datetime
 import numpy as np
 import tensorflow_hub as hub
 
+module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
+embed = hub.KerasLayer(module_url)
+# embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
+print("model loading successful")
+
 def generate_mc(user, notes_data):
     question = "who was present at the last meeting?"
     all_false = True
@@ -80,7 +85,7 @@ def get_admin_response():
         except FileNotFoundError:
             users = []
             data = {}
-        if form == "newUser":
+        if form == "newUser" and not request_data['newUser'].isspace():
             users.append(request_data['newUser'])
         elif form == "removeUsers":
             removed = request_data['removedUsers']
@@ -94,7 +99,7 @@ def get_admin_response():
         msg = "success"
     else:
         msg = "failed: not POST"
-    return msg
+    return {'msg': msg}
 
 @app.route('/login_data')
 def get_login_data():
@@ -129,21 +134,19 @@ def get_login_responses():
         data['msg'] = msg
         timestamp = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S-%f')
         data['timestamp'] = timestamp
-        with open('attempts/attempt' + timestamp + '.json', 'w') as f:
+        with open('attempts/attempt' + timestamp + '.json', 'w+') as f:
             json.dump(data, f, ensure_ascii=False)
-        with open('current.json', 'w') as f:
-            json.dump({}, f, ensure_ascii=False)
     else:
         msg = "error: not post"
     print(msg)
     res = {'msg': msg}
-    with open('result.json', 'w') as f:
+    with open('current.json', 'w') as f:
         json.dump(res, f, ensure_ascii=False)
-    return msg
+    return res
 
 @app.route('/result')
 def get_result():
-    with open('result.json', 'r') as f:
+    with open('current.json', 'r') as f:
         data = json.load(f)
     return data
 
@@ -160,16 +163,13 @@ def get_notes_response():
         timestamp = datetime.datetime.now().strftime('%Y-%m-%d_%H-%M-%S-%f')
         request_data['timestamp'] = timestamp
         try:
-           os.rename('notes.json', 'notes/note' + timestamp + '.json')
+            os.rename('notes.json', 'notes/note' + timestamp + '.json')
         except FileNotFoundError:
             print("notes.json does not exist (yet)")
-        with open('notes.json', 'w') as f:
+        with open('notes.json', 'w+') as f:
             json.dump(request_data, f, ensure_ascii=False)
     return "done"
 
 if __name__ == "__main__":
-    module_url = "https://tfhub.dev/google/universal-sentence-encoder/4"
-    embed = hub.KerasLayer(module_url)
-    # embed = hub.load("https://tfhub.dev/google/universal-sentence-encoder/4")
-    print("model loading successful")
+    # app.run()
     app.run(host='0.0.0.0', port=8080, debug=True)

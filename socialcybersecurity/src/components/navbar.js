@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
 import Home from './../home';
 import Admin from './../admin';
 import Login from './../login';
