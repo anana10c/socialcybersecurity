@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "18b5473a9d009e55f283044bbf057d60",
+    "revision": "02ca8c6a2838987b7725102aaf71511a",
     "url": "/socialcybersecurity/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/socialcybersecurity/static/js/2.222a461e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "196e387ad37b81bdfe86",
-    "url": "/socialcybersecurity/static/js/main.bedd3070.chunk.js"
+    "revision": "508664f5e9beec5b5b63",
+    "url": "/socialcybersecurity/static/js/main.334c6917.chunk.js"
   },
   {
     "revision": "a5f8de08d56de9127689",
