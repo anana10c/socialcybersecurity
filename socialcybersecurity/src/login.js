@@ -18,7 +18,7 @@ class Login extends React.Component {
     fetch(`${localStorage.getItem('ip')}/login_data`)
       .then(response => response.json())
       .then(data => this.setState({name: data['name'],
-  								   mcQuestion: data['mcQuestion'],
+                     mcQuestion: data['mcQuestion'],
   								   mcChoices: data['mcChoices'],
   								   shortQuestion: data['shortQuestion']}));
   }

@@ -1,6 +1,7 @@
 import React from 'react';
 import Home from './../home';
 import Admin from './../admin';
+import Username from './../username';
 import Login from './../login';
 import Update from './../update';
 import Result from './../result';
@@ -38,6 +39,9 @@ class Navbar extends React.Component {
               <Admin />
             </Route>
             <Route path="/socialcybersecurity/login">
+              <Username />
+            </Route>
+            <Route path="/socialcybersecurity/login-questions">
               <Login />
             </Route>
             <Route path="/socialcybersecurity/update">

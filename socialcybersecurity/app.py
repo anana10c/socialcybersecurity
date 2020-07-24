@@ -41,16 +41,15 @@ def generate_short(user, notes_data):
     return question, answers
 
 def generate_questions(user):
-    with open ('notes.json') as f:
+    with open('notes.json') as f:
         notes_data = json.load(f)
     mc_question, mc_pairs = generate_mc(user, notes_data)
     short_question, short_answers = generate_short(user, notes_data)
-    data = {"user": user,
-            "mc_question": mc_question,
+    data = {"mc_question": mc_question,
             "mc_pairs": mc_pairs,
             "short_question": short_question,
             "short_answers": short_answers}
-    with open('current.json', 'w') as f:
+    with open('current.json', 'w+') as f:
         json.dump(data, f, ensure_ascii=False)
     return mc_question, mc_pairs, short_question, short_answers
 
@@ -101,9 +100,22 @@ def get_admin_response():
         msg = "failed: not POST"
     return {'msg': msg}
 
+@app.route('/username', methods=['POST'])
+def get_username():
+    if request.method == 'POST':
+        request_data = request.get_json()
+        username = request_data['name']
+        with open('current.json', 'w+') as f:
+            json.dump({'name': username}, f, ensure_ascii=False)
+        msg = "success"
+    else:
+        msg = "error: not post"
+    return {'msg': msg}
+
 @app.route('/login_data')
 def get_login_data():
-    username = 'bloop'
+    with open('current.json', 'r') as f:
+        username = json.load(f)['name']
     mc_question, mc_pairs, short_question, short_answers = generate_questions(username)
     mc_choices = {choice: False for choice in mc_pairs}
     return {'name': username,
@@ -171,5 +183,5 @@ def get_notes_response():
     return "done"
 
 if __name__ == "__main__":
-    # app.run()
-    app.run(host='0.0.0.0', port=8080, debug=True)
+    app.run()
+    # app.run(host='0.0.0.0', port=8080, debug=True)
