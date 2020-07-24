@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/socialcybersecurity/static/js/main.34f67b3e.chunk.js",
-    "main.js.map": "/socialcybersecurity/static/js/main.34f67b3e.chunk.js.map",
+    "main.js": "/socialcybersecurity/static/js/main.c2dfc26f.chunk.js",
+    "main.js.map": "/socialcybersecurity/static/js/main.c2dfc26f.chunk.js.map",
     "runtime-main.js": "/socialcybersecurity/static/js/runtime-main.c6ab0b42.js",
     "runtime-main.js.map": "/socialcybersecurity/static/js/runtime-main.c6ab0b42.js.map",
-    "static/js/2.64839164.chunk.js": "/socialcybersecurity/static/js/2.64839164.chunk.js",
-    "static/js/2.64839164.chunk.js.map": "/socialcybersecurity/static/js/2.64839164.chunk.js.map",
+    "static/js/2.a1404264.chunk.js": "/socialcybersecurity/static/js/2.a1404264.chunk.js",
+    "static/js/2.a1404264.chunk.js.map": "/socialcybersecurity/static/js/2.a1404264.chunk.js.map",
     "index.html": "/socialcybersecurity/index.html",
-    "precache-manifest.ccd4c088c3ad3a69e45b3ecebad5a908.js": "/socialcybersecurity/precache-manifest.ccd4c088c3ad3a69e45b3ecebad5a908.js",
+    "precache-manifest.01eae02ce9239d66cd7ce8735b596421.js": "/socialcybersecurity/precache-manifest.01eae02ce9239d66cd7ce8735b596421.js",
     "service-worker.js": "/socialcybersecurity/service-worker.js",
-    "static/js/2.64839164.chunk.js.LICENSE.txt": "/socialcybersecurity/static/js/2.64839164.chunk.js.LICENSE.txt"
+    "static/js/2.a1404264.chunk.js.LICENSE.txt": "/socialcybersecurity/static/js/2.a1404264.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c6ab0b42.js",
-    "static/js/2.64839164.chunk.js",
-    "static/js/main.34f67b3e.chunk.js"
+    "static/js/2.a1404264.chunk.js",
+    "static/js/main.c2dfc26f.chunk.js"
   ]
 }
